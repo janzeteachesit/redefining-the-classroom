@@ -11,8 +11,8 @@ I have set myself a design challenge. How do I know I am on the right track?
 I started the week re-reading Dan Nessler’s “How to apply a design thinking, HCD, UX or any creative process from scratch”. 
 > tl;dr: 4 phases from “Don’t know” to “Do know”: Research, Synthesize, Ideate, and Implement
  
-```<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/600/1*gUgqDVc4fd7fYjmmzNQzjw.png">
-@dan.nessler’s Double Diamond revamped; image soruice: https://cdn-images-1.medium.com/max/1200/1*plChYNkaj7TWsLPImkB41A.png```
+ ![@dan.nessler’s Double Diamond revamped; image soruice: https://cdn-images-1.medium.com/max/1200/1*plChYNkaj7TWsLPImkB41A.png](https://cdn-images-1.medium.com/max/600/1*gUgqDVc4fd7fYjmmzNQzjw.png)
+```@dan.nessler’s Double Diamond revamped; image soruice: https://cdn-images-1.medium.com/max/1200/1*plChYNkaj7TWsLPImkB41A.png```
 
 Dan Nessler, a participant in one of Hyper Island’s design programs, developed the tool for those involved with design challenges and projects. Nessler’ s “Double Diamond revamped” frames a challenge/project in 2 Stages — “Designing the right thing” and “Designing things right” — and 4 Phases — Research, Synthesis, Ideation, and Implementation.
 ##The Research Phase
