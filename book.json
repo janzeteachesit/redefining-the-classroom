@@ -6,7 +6,8 @@
         "hints",
         "image-captions",
         "mathjax",
-        "exercises"
+        "exercises",
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
