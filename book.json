@@ -9,7 +9,8 @@
         "exercises",
         "styleguide",
         "sitemap",
-        "tocstyles"
+        "tocstyles",
+        "styles-sass"
     ],
     "pluginsConfig": {}
 }
