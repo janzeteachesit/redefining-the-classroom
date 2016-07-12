@@ -5,7 +5,8 @@
         "googledocs",
         "hints",
         "image-captions",
-        "mathjax"
+        "mathjax",
+        "exercises"
     ],
     "pluginsConfig": {}
 }
