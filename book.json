@@ -2,7 +2,8 @@
     "plugins": [
         "comment",
         "local-video",
-        "googledocs"
+        "googledocs",
+        "hints"
     ],
     "pluginsConfig": {}
 }
