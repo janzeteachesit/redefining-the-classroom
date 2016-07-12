@@ -3,7 +3,8 @@
         "comment",
         "local-video",
         "googledocs",
-        "hints"
+        "hints",
+        "image-captions"
     ],
     "pluginsConfig": {}
 }
