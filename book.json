@@ -1,7 +1,8 @@
 {
     "plugins": [
         "comment",
-        "local-video"
+        "local-video",
+        "googledocs"
     ],
     "pluginsConfig": {}
 }
