@@ -4,7 +4,8 @@
         "local-video",
         "googledocs",
         "hints",
-        "image-captions"
+        "image-captions",
+        "mathjax"
     ],
     "pluginsConfig": {}
 }
