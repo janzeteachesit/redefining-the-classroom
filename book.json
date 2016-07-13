@@ -13,7 +13,8 @@
         "styles-sass",
         "tasklist",
         "youtube",
-        "word-count"
+        "word-count",
+        "theme-packt"
     ],
     "pluginsConfig": {}
 }
