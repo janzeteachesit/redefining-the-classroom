@@ -10,7 +10,8 @@
         "styleguide",
         "sitemap",
         "tocstyles",
-        "styles-sass"
+        "styles-sass",
+        "tasklist"
     ],
     "pluginsConfig": {}
 }
