@@ -17,4 +17,10 @@
         "theme-packt"
     ],
     "pluginsConfig": {}
+    
+    "styles":{
+       "website": styles/website.css
+       "pdf": styles/pdf.css
+       "epub": styles/epub.css
+    }
 }
