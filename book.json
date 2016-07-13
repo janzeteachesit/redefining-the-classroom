@@ -1,26 +1,6 @@
 {
     "plugins": [
-        "comment",
-        "local-video",
-        "googledocs",
-        "hints",
-        "image-captions",
-        "mathjax",
-        "exercises",
-        "styleguide",
-        "sitemap",
-        "tocstyles",
-        "styles-sass",
-        "tasklist",
-        "youtube",
-        "word-count",
-        "theme-packt"
+        "comment"
     ],
     "pluginsConfig": {}
-    
-    "styles":{
-       "website": styles/website.css
-       "pdf": styles/pdf.css
-       "epub": styles/epub.css
-    }
 }
