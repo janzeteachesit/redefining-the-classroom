@@ -5,5 +5,5 @@
 * [Dedication](00-8-dedication.md)
 * [Redefining the Classroom](00-9-week00.md)
 * [Ripping the Design Brief](01-5-week01.md)
-* Summary
+* [Summary](SUMMARY.md)
 
