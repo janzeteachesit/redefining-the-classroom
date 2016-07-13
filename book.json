@@ -12,7 +12,8 @@
         "tocstyles",
         "styles-sass",
         "tasklist",
-        "youtube"
+        "youtube",
+        "word-count"
     ],
     "pluginsConfig": {}
 }
