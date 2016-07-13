@@ -1,9 +1,9 @@
 {
     "plugins": [
-        "-comment"
+        "comment"
     ],
     "pluginsConfig": {
-        "-comment": {
+        "comment": {
             "highlightCommented": true
         }
     }
