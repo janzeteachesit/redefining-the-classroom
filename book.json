@@ -11,7 +11,8 @@
         "sitemap",
         "tocstyles",
         "styles-sass",
-        "tasklist"
+        "tasklist",
+        "youtube"
     ],
     "pluginsConfig": {}
 }
