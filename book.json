@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "comment"
+        "comment",
+        "youtube"
     ],
     "pluginsConfig": {
         "comment": {
