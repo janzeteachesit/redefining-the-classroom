@@ -2,7 +2,8 @@
     "plugins": [
         "comment",
         "youtube",
-        "katex"
+        "katex",
+        "styleguide"
     ],
     "pluginsConfig": {
         "comment": {
