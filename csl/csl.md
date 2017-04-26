@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Communicating Student Learning
 ## District Inquiry Project 2016-2018
 
