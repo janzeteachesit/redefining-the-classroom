@@ -14,9 +14,6 @@ The “Term 2 Evaluations” for Math, Science and Applied Design are taken dire
 
 I hope this helps.  Please feel free to email me with questions, comments or suggestions.
 
-Sincerely
-
-Carl Janze
 
 Further information from:
 - the B.C. Min. of Education can be found at: https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/updates/educator_update_student_progress_k-9.pdf
