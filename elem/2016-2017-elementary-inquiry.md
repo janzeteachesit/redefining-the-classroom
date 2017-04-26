@@ -56,7 +56,8 @@ Full Agenda available: [Elementary Inquiry Session One Agenda](session-one-agend
 ### Links
 - [Elementary Inquiry - Public GDrive Folder](https://drive.google.com/open?id=0BysMfTbvAUUVLWZwc09rOVJYa1k)
 - [Elementary Inquiry - resources spreadsheet](https://drive.google.com/file/d/0BysMfTbvAUUVelF2S2hnZG5xS0U/view)
-
+- [ ] [\_drafts/20162017-elementary-inquiry.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/20162017-elementary-inquiry.md) - move over
+- [ ] [\_drafts/painting-with-water-first.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/painting-with-water-first.md) - move over
 
 
 
