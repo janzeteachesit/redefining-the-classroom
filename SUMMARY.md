@@ -8,6 +8,8 @@
   * [Ripping the Design Brief](01-5-week01.md)
 * [Elemenatry Inquiry 2016-2017](elem/inq-2016-2017.md)
   * [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
+    * [Elementary Inquiry Session One Agenda](session-one-agenda.md)
+    * [Elementary Inquiry Session Two Agenda](session-two-agenda.md)
 * [Communicating Student Learning](csl/csl.md)
   * [New Stem Report Cards](csl/new-stem-reports.md)
     * [Progress Charts](csl/new-stem/progress-charts.md)
