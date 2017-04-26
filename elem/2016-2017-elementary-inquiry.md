@@ -15,24 +15,35 @@ How does a project-based STEM learning environment increase authentic student en
 - developing a lifelong interest in designing and making;
 - using Creative and Critical Thinking, Collaboration, and Communication to solve problems, address issues, and make decisions.
 
+## Inquiry Structure
+We have release time for 2 whole days each. 
+
+Meeting | Length | Purpose
+--- | --- |---
+1 | Half Day, Feb. | Intros; Purpose; Goals; Resources; Next Steps
+2 | All Day, Mar. | First half - Who is choosing to try out what, Idea Share
+. |. | Second half - In partners / groups, spend afternoon preparing
+3 | Half Day, May | Share What worked, What Would Change, What Would Add
+
+
 ## Session 1 20170227
 ### Agenda
 1:00  - 2:00
   1. Introductions
   2. Purpose of Inquiry
   3. Topics
-    - Computational Thinking
-    - Computers and Communication Devices
-    - Media Arts
-    - Curricular Competencies
+     - Computational Thinking
+     - Computers and Communication Devices
+     - Media Arts
+     - Curricular Competencies
 2:00  - 3:00
   4. Set next Meeting Date & Time 
   5. Explore Resources (Computer Lab)
   6. Other
-    - Shared Resources
-    - Grade 6 & 7 Math & Science
-    - Templeton directions: CSL and STEM
-    - STEM Summer School at Van Tech
+     - Shared Resources
+     - Grade 6 & 7 Math & Science
+     - Templeton directions: CSL and STEM
+     - STEM Summer School at Van Tech
 
 Full Agenda available: [Elementary Inquiry Session One Agenda](session-one-agenda.md)
 
