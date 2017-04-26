@@ -16,6 +16,27 @@ How does a project-based STEM learning environment increase authentic student en
 - using Creative and Critical Thinking, Collaboration, and Communication to solve problems, address issues, and make decisions.
 
 ## Session 1 20170227
+### Agenda
+1:00  - 2:00
+  1. Introductions
+  2. Purpose of Inquiry
+  3. Topics
+    - Computational Thinking
+    - Computers and Communication Devices
+    - Media Arts
+    - Curricular Competencies
+2:00  - 3:00
+  4. Set next Meeting Date & Time 
+  5. Explore Resources (Computer Lab)
+  6. Other
+    - Shared Resources
+    - Grade 6 & 7 Math & Science
+    - Templeton directions: CSL and STEM
+    - STEM Summer School at Van Tech
+
+Full Agenda available: [Elementary Inquiry Session One Agenda](session-one-agenda.md)
+
+
 
 ## Session 2 20170415
 
