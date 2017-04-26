@@ -20,5 +20,28 @@ Satisfactory Performance [1] | Good Performance [1] | Very Good Performance [1] 
 
 [1] http://www.bced.gov.bc.ca/classroom_assessment/09_report_student_prog.pdf, pg 14.
 
+___
+
+## Types of Evidence (Math)
+### Projects
+- Practical applications
+### Junior STEM Pre-Algebra Core Math Knowledge
+- Booklets
+### Khan Academy - Pre-algebra Mission – Progress
+- STEM – Khan Academy
+- Beginning – Practicing
+- Progressing – Level I
+- Proficient – Level II
+- Mastered – Mastery
+### Gauss Mathematics Contest  - score 130+; see below for details
+#### Format
+- 25 multiple-choice questions
+- 60 minutes
+- 150 total marks
+- most calculators permitted
+#### Mathematical Content
+- Questions are based on curriculum common to all Canadian provinces.
+
+
 
 
