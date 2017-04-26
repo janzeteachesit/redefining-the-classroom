@@ -46,3 +46,5 @@ Rough agenda for the meeting:
      - Grade 6 & 7 Math & Science
      - Templeton directions: CSL and STEM
      - STEM Summer School at Van Tech
+
+Original [Session 1 Agenda 20170227 - GDrive](https://docs.google.com/document/d/1QhS-rC_hbfn_AGUL07dPjqF3QOu772eMI9tUtxeyRpo/edit?usp=sharing)
