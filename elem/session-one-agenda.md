@@ -2,9 +2,9 @@
 ## Session 1 20170227
 ### Agenda
 
-#### February 27th, 2017
-#### Conference Room
-#### 1:00  - 3:00
+##### February 27th, 2017
+##### Conference Room
+##### 1:00  - 3:00
 
 Rough agenda for the meeting:
 
