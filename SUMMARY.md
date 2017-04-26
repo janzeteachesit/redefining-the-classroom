@@ -10,4 +10,11 @@
   * [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
 * [Communicating Student Learning](csl/csl.md)
   * [New Stem Report Cards](csl/new-stem-reports.md)
+    * [Progress Charts](new-stem/progress-charts.md)
+    * [Learning Portfolios](new-stem/learning-portfolios.md)
+    * [Core, Curricular and Content Self-Reports](new-stem/self-reports.md)
+    * [Curricular and Content Self-Reports v1](new-stem/v1.md)
+    * [Curricular and Content Self-Reports v2](new-stem/v2.md)
+    * [Curricular and Content Self-Reports v3](new-stem/v3.md)
+    * [Curricular and Content Self-Reports v4](new-stem/v4.md)
 
