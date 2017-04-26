@@ -12,12 +12,12 @@ Rough agenda for the meeting:
   1. Introductions
   2. Purpose of Inquiry
   3. Topics
-    1. Computational Thinking
-      i. Digital
-        - [Code.org](https://code.org/teacher-dashboard#/)
-      ii. Unplugged
-        - [CS Unplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
-        - [Code.org Unplugged 3](https://studio.code.org/unplugged/unplug3.pdf) - Graph Paper Programming; Main Goal: Help students understand how “coding” works. Sample Drawings/Algorithms Kit; Programming Instructions Card; Large grid graph paper; Markers, pens, or pencils (two or three colors) 
+     1. Computational Thinking
+        1. Digital
+           - [Code.org](https://code.org/teacher-dashboard#/)
+        2. Unplugged
+           - [CS Unplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
+           - [Code.org Unplugged 3](https://studio.code.org/unplugged/unplug3.pdf) - Graph Paper Programming; Main Goal: Help students understand how “coding” works. Sample Drawings/Algorithms Kit; Programming Instructions Card; Large grid graph paper; Markers, pens, or pencils (two or three colors) 
     2. Computers and Communication Devices
       - Digital
       - Unplugged
