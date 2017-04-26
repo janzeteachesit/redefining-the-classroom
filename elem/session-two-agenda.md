@@ -13,3 +13,4 @@ Conference Room
    3. Afternoon - Group work sessions
    
 - [ ] [20170413-Session 2 - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVR1Uwd3Q1T0MzMUk) links to originals and files
+- [ ] [ELEM INQ 2016-2017 Session 2 - GPhotos](https://goo.gl/photos/ZP3ZbNoAhEGPnab38) - write ups
