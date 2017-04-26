@@ -1,9 +1,4 @@
-# The Designed Classroom
-## Re-framing Planning and Teaching as a Design Challenge
-
-___
-
-### Ways to read "The Designed Classroom"
+## Ways to read "The Designed Classroom"
 - [This repository \(Summary\)](SUMMARY.md)
 - [As a GitBook](https://janzeteachesit.gitbooks.io/redefining-the-classroom/content/), even Drafts
 - [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/redefining-the-classroom/), even Drafts
