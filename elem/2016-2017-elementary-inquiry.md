@@ -54,6 +54,8 @@ Agenda
    1. What has already been done
    2. Brainstorm class unit
    3. Afternoon - Group work sessions
+   
+- [ ] [20170413-Session 2 - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVR1Uwd3Q1T0MzMUk) links to originals and files
 
 ## Session 3 20170518
 T.B.D.
