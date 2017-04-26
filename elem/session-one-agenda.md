@@ -42,7 +42,7 @@ Rough agenda for the meeting:
   4. Set next Meeting Date & Time 
   5. Explore Resources (Computer Lab)
   6. Other
-    - Shared Resources
+    - Shared Resources\
     - Grade 6 & 7 Math & Science
     - Templeton directions: CSL and STEM
     - STEM Summer School at Van Tech
