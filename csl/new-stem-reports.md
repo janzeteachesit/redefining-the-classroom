@@ -9,3 +9,5 @@
 6. [Curricular and Content Self-Reports v3](new-stem/v3.md)
 7. [Curricular and Content Self-Reports v4](new-stem/v4.md)
 
+### Other Docs
+- [Why the New Format](new-format.md)
