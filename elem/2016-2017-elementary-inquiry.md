@@ -49,10 +49,14 @@ Full Agenda available: [Elementary Inquiry Session One Agenda](session-one-agend
 
 
 
-## Session 2 20170415
+## Session 2 20170413
+Agenda
+   1. What has already been done
+   2. Brainstorm class unit
+   3. Afternoon - Group work sessions
 
 ## Session 3 20170518
-
+T.B.D.
 ### Links
 - [Elementary Inquiry - Public GDrive Folder](https://drive.google.com/open?id=0BysMfTbvAUUVLWZwc09rOVJYa1k)
 - [Elementary Inquiry - O365 Folder](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcjanze_vsb_bc_ca%2FDocuments%2FInquiry%2F20162017-ElementarySTEMADSTCoding&FolderCTID=0x01200081E60F4837F90645810CD018F9ED4888) - Private; sorry :frowning:
