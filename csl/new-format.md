@@ -25,3 +25,5 @@ Further information from:
 - the New Math curriculum: https://curriculum.gov.bc.ca/curriculum/science/8
 - the New Science curriculum: https://curriculum.gov.bc.ca/curriculum/mathematics/8
 - the New Applied Design curriculum: https://curriculum.gov.bc.ca/curriculum/adst/8
+
+Original [CoverLetter.docx](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=038abb44c47984485b638449353f5efdc&authkey=AVG0OWePuHtfh36b0Pp36Nw) - Public
