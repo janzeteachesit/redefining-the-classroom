@@ -4,11 +4,11 @@
 - [Dedication](000-dedication.md)
 - [Introduction](README.md)
 - [Summary](SUMMARY.md)
-- Medium Articles
+- [Medium Articles](medium.md)
   - [Redefining the Classroom](00-9-week00.md)
   - [Ripping the Design Brief](01-5-week01.md)
-- Elemenatry Inquiry 2016-2017
+- [Elemenatry Inquiry 2016-2017](elem/inq20162017.md)
   - [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
-- Communicating Student Learning
+- [Communicating Student Learning](csl/csl.md)
   - [New Stem Report Cards](csl/new-stem-reports.md)
 
