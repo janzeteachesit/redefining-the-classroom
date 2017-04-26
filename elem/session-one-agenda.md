@@ -8,7 +8,7 @@ Conference Room
 
 Rough agenda for the meeting:
 
-1:00  - 2:00
+### 1:00  - 2:00
   1. Introductions
   2. Purpose of Inquiry
   3. Topics
@@ -31,7 +31,14 @@ Rough agenda for the meeting:
         - [Tire example](http://mr-stadel.blogspot.ca/2012/04/rolling-tires.html)
         - Others: [1](http://wmh3acts.weebly.com/3-act-math.html), [2](https://mikewiernicki.com/3-act-tasks/), [3](https://docs.google.com/spreadsheets/d/19sms4MpuAOO71o4qFPJyVKK-OGLnNegMgSL6WAwIdb8/edit)
     - Curricular Competencies
-2:00  - 3:00
+      -“Off-the-shelf” Units
+        - [Antarctica Project](https://web.stanford.edu/group/redlab/cgi-bin/materials/Antarctica%20Project%E2%80%93Design%20Thinking%20version.pdf)
+        - [Design a Board Game](http://www.mathshell.com/materials.php?series=numeracy&item=boardgame)
+        - [Creating a Probability Game Based on a Story](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/contributed-resources/Creating%20a%20Probability%20Game.pdf)
+
+    
+### 2:00  - 3:00
+
   4. Set next Meeting Date & Time 
   5. Explore Resources (Computer Lab)
   6. Other
