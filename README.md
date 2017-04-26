@@ -1,7 +1,8 @@
-# Redefining The Classroom
+# The Designed Classroom
 ___
-## The Designed Classroom
-### Re-framing Planning and Teaching as a Design Challenge
+## Re-framing Planning and Teaching as a Design Challenge
+
+### Where to read
 - [Table of Contents / Summary](SUMMARY.md)
 - [Read on GitBook](https://janzeteachesit.gitbooks.io/redefining-the-classroom/content/), even Drafts
 - [Read as Web Pages \(gh_pages\)](https://janzeteachesit.github.io/redefining-the-classroom/), even Drafts
