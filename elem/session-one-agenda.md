@@ -21,15 +21,15 @@ Rough agenda for the meeting:
      2. Computers and Communication Devices
         1.  Digital
         2.  Unplugged
-           - [Code.org Unplugged 10](https://studio.code.org/unplugged/unplug10.pdf) - The Internet; Main Goal: Students will learn how the Internet works, as it relates to URL addresses and web pages.  DNS Translation Table; Server Address Name Tags; Message Packets; #10 envelopes; Scissors
+            - [Code.org Unplugged 10](https://studio.code.org/unplugged/unplug10.pdf) - The Internet; Main Goal: Students will learn how the Internet works, as it relates to URL addresses and web pages.  DNS Translation Table; Server Address Name Tags; Message Packets; #10 envelopes; Scissors
      3. Media Arts
         1.  Digital
-           - [Scratch](https://scratch.mit.edu/users/janzeteachesit/)
-           - [CS Discoveries](https://curriculum.code.org/csd/resources/)
+            - [Scratch](https://scratch.mit.edu/users/janzeteachesit/)
+            - [CS Discoveries](https://curriculum.code.org/csd/resources/)
         2.  Unplugged
-           - [3 Act Math Lessons - All](https://docs.google.com/spreadsheets/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html)
-           - [Tire example](http://mr-stadel.blogspot.ca/2012/04/rolling-tires.html)
-            Others: [1](http://wmh3acts.weebly.com/3-act-math.html), [2](https://mikewiernicki.com/3-act-tasks/), [3](https://docs.google.com/spreadsheets/d/19sms4MpuAOO71o4qFPJyVKK-OGLnNegMgSL6WAwIdb8/edit)
+            - [3 Act Math Lessons - All](https://docs.google.com/spreadsheets/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html)
+            - [Tire example](http://mr-stadel.blogspot.ca/2012/04/rolling-tires.html)
+            - Others: [1](http://wmh3acts.weebly.com/3-act-math.html), [2](https://mikewiernicki.com/3-act-tasks/), [3](https://docs.google.com/spreadsheets/d/19sms4MpuAOO71o4qFPJyVKK-OGLnNegMgSL6WAwIdb8/edit)
      4. Curricular Competencies
         -“Off-the-shelf” Units
            - [Antarctica Project](https://web.stanford.edu/group/redlab/cgi-bin/materials/Antarctica%20Project%E2%80%93Design%20Thinking%20version.pdf)
