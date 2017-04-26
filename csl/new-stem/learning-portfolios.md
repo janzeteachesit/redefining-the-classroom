@@ -3,8 +3,11 @@
 
 - originally developed - December 2016
 - Rubric focus; 
+
 Draft
+
 General Descriptions of Levels
+
 Beginning | Progressing | Proficient | Mastered
 --------- | ----------- | ---------- | --------
 In the Discovery phase | In the Exploration phase | In the Synthesis phase | In the Innovation phase.
