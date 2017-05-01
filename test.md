@@ -11,7 +11,7 @@ What would meaningful, robust, rubrics for formatively communicating and assessi
 [Notes](csl-elem-notes.md)
 * [session-two-agenda.md](session-two-agenda.md)
 * [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/csl-core-competencies-notes.md): 20170322
-* []()
+* [New BC Curriculum](https://curriculum.gov.bc.ca/)
 
 #### Links (External / Static)
 * [The Designed Classroom](https://github.com/janzeteachesit/redefining-the-classroom): GitHub repo
@@ -86,6 +86,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 
 
 ## Resources
+- [Organizing GitHub 20170430](https://docs.google.com/document/d/1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c/edit#)
 - [My Medium Profile](https://medium.com/@janzeteachesit)
 - [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
 - [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
