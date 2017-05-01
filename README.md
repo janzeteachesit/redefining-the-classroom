@@ -1,3 +1,6 @@
+
+[Organizing GitHub 20170430](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
+
 ## Ways to read "The Designed Classroom"
 - [This repository \(the "Summary"\)](SUMMARY.md)
 - [As a GitBook](https://janzeteachesit.gitbooks.io/redefining-the-classroom/content/), even Drafts
