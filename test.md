@@ -4,7 +4,7 @@
 
 #### Essential Question/Purpose
 What would meaningful, robust, rubrics for formatively communicating and assessing student learning and that encourage students to reflect on their learning (both successes and areas of growth) look like? - TOO LONG
-CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST
+[CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST - docx](https://drive.google.com/open?id=0BysMfTbvAUUVTE1kckUyeFlFb0E)
 
 
 [Notes](csl-elem-notes.md)
