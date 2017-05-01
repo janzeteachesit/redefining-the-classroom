@@ -9,7 +9,7 @@ CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST
 
 [Notes](csl-elem-notes.md)
 * [session-two-agenda.md](session-two-agenda.md)
-* [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/edit/master/_drafts/csl-core-competencies-notes.md): 20170322
+* [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/master/_drafts/csl-core-competencies-notes.md): 20170322
 * []()
 
 #### Links (External / Static)
