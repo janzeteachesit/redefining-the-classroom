@@ -7,6 +7,15 @@ What would meaningful, robust, rubrics for formatively communicating and assessi
 
 [CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST - docx](https://drive.google.com/open?id=0BysMfTbvAUUVTE1kckUyeFlFb0E)
 
+#### Genre - 
+Reference for other teachers
+Diary of process(?): Why did I do it this way? see/answer in thesis below
+
+##### Thesis - 
+
+- This is what I got from this article or experience:
+- This is what I will use it for going forward:
+- I was reading blank.  It reminded me of blank experience.
 
 [Notes](csl-elem-notes.md)
 * [session-two-agenda.md](session-two-agenda.md)
@@ -37,17 +46,8 @@ What would meaningful, robust, rubrics for formatively communicating and assessi
 
 
 ## Structure
-
-#### Genre - 
-
 #### Beginning 
 __*establish*__ relationship early in the piece,
-
-##### Thesis - 
-
-- This is what I got from this article or experience:
-- This is what I will use it for going forward:
-- I was reading blank.  It reminded me of blank experience.
 
 #### Middle
 __*sustain*__ it through consistent description,
