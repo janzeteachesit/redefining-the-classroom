@@ -1,33 +1,17 @@
-# CSL Rubrics for Elementary 6 & 7
-## Math, Science, ADST
-### Sunday, April 30, 2017
+# CSL Core Competencies 
+## Self Evaluation
+### Monday, May 01, 2017
 
-#### Essential Question/Purpose
-What would meaningful, robust, rubrics for formatively communicating and assessing student learning and that encourage students to reflect on their learning (both successes and areas of growth) look like? - TOO LONG
-
-[CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST - docx](https://drive.google.com/open?id=0BysMfTbvAUUVTE1kckUyeFlFb0E)
-
-#### Genre - 
-Reference for other teachers
-Diary of process(?): Why did I do it this way? see/answer in thesis below
-
-##### Thesis - 
-
-- This is what I got from this article or experience:
-- This is what I will use it for going forward:
-- I was reading blank.  It reminded me of blank experience.
 
 [Notes](csl-elem-notes.md)
-* [session-two-agenda.md](session-two-agenda.md)
 * [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/csl-core-competencies-notes.md): 20170322
 * [New BC Curriculum](https://curriculum.gov.bc.ca/)
 
 #### Links (External / Static)
 * [The Designed Classroom](https://github.com/janzeteachesit/redefining-the-classroom): GitHub repo
-* [session-two-agenda.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/elem/session-two-agenda.md): genesis for this post
 
 #### Process / Link(s) to work
-1. [x] [csl-elem.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/elem/csl-elem.md): in redefining-the-classroom/elem/
+1. [x] [core-comp-self-eval.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/csl/core-comp-self-eval.md): in redefining-the-classroom/csl/
 2. [ ] [Grammarly](https://app.grammarly.com/)
 3. [x] [csl-elem-notes - Gdoc](https://docs.google.com/document/d/1m6423fzJUwjC8vHuog_f8UsV8B8rUyC7XS9tNGWMnRM/edit): doc and [csl-elem - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZjV6SUIxUTlDYU0)
 4. [ ] [ - Medium](https://medium.com/new-story)
@@ -46,6 +30,20 @@ Diary of process(?): Why did I do it this way? see/answer in thesis below
 
 
 ## Structure
+#### Essential Question/Purpose
+
+[CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST - docx](https://drive.google.com/open?id=0BysMfTbvAUUVTE1kckUyeFlFb0E)
+
+#### Genre - 
+Reference for other teachers
+Diary of process(?): Why did I do it this way? see/answer in thesis below
+
+##### Thesis - 
+
+- This is what I got from this article or experience:
+- This is what I will use it for going forward:
+- I was reading blank.  It reminded me of blank experience.
+
 #### Beginning 
 __*establish*__ relationship early in the piece,
 
