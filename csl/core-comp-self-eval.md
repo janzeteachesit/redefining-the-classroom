@@ -85,7 +85,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - [Organizing GitHub 20170430](https://docs.google.com/document/d/1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c/edit#)
 - [My Medium Profile](https://medium.com/@janzeteachesit)
 - [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
-- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
+- [Classeur Markdown Editor](https://app.classeur.io/)
 - [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
 - [New Story - Medium](https://medium.com/new-story)
 - [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
