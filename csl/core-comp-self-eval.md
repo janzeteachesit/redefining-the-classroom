@@ -2,13 +2,18 @@
 ## Self Evaluation
 ### Monday, May 01, 2017
 
+#### Essential Question/Purpose
+
+#### Genre - 
+FOS / Reference?
+Diary of process(?): Why did I do it this way? see/answer in thesis below
 
 [Notes](csl-elem-notes.md)
 * [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/csl-core-competencies-notes.md): 20170322
 * [New BC Curriculum](https://curriculum.gov.bc.ca/)
 
 #### Links (External / Static)
-* [The Designed Classroom](https://github.com/janzeteachesit/redefining-the-classroom): GitHub repo
+* [The Designed Classroom \/csl](https://github.com/janzeteachesit/redefining-the-classroom/tree/master/csl): GitHub repo
 
 #### Process / Link(s) to work
 1. [x] [core-comp-self-eval.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/csl/core-comp-self-eval.md): in redefining-the-classroom/csl/
@@ -30,11 +35,6 @@
 
 
 ## Structure
-#### Essential Question/Purpose
-
-#### Genre - 
-Reference for other teachers
-Diary of process(?): Why did I do it this way? see/answer in thesis below
 
 ##### Thesis - 
 
