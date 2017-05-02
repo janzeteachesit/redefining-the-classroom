@@ -12,7 +12,7 @@
 
 #### Process / Link(s) to work
 1. [x] [core-comp-self-eval.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/csl/core-comp-self-eval.md): in redefining-the-classroom/csl/
-2. [ ] [Grammarly](https://app.grammarly.com/)
+2. [x] [CSL Core Competencies - Grammarly](https://app.grammarly.com/docs/164460064)
 3. [x] [cc-selfeval-notes - Gdoc](https://docs.google.com/document/d/1gkS7u5TcMAIfSinJBkw_nh4nJJRU2vPaxB9hCxtfoDw/edit?usp=sharing): doc and [cc-selfeval - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVOFAxdS1BazRERlk)
 4. [ ] [ - Medium](https://medium.com/new-story)
 5. [ ] [GImages => Tools => Usage Rights => Non-commercial reuse with modifications](https://www.google.ca/search?site=&tbm=isch&source=hp&biw=1050&bih=1535&q=writing&oq=writing&gs_l=img.3..35i39k1j0l9.3740.4602.0.5147.8.8.0.0.0.0.51.309.7.7.0....0...1.1.64.img..1.7.305.0.uKI6HM6QkmA#q=writing&tbs=sur:fm&tbm=isch)
