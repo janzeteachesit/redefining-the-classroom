@@ -1,4 +1,4 @@
-# Summary
+# What's Inside
 
 * [Title Page](000-title-page.md)
 * [Dedication](000-dedication.md)
