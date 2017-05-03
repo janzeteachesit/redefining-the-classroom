@@ -16,7 +16,7 @@ Diary of process(?): Why did I do it this way? see/answer in thesis below
 * [The Designed Classroom \/csl](https://github.com/janzeteachesit/redefining-the-classroom/tree/master/csl): GitHub repo
 
 #### Process / Link(s) to work
-1. [x] [core-comp-self-eval.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/csl/core-comp-self-eval.md): in redefining-the-classroom/csl/
+1. [x] [core-comp-self-eval.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/csl/core-comp-self-eval.md): in redefining-the-classroom/csl/; open [Classeur Markdown Editor](https://app.classeur.io/)
 2. [x] [CSL Core Competencies - Grammarly](https://app.grammarly.com/docs/164460064)
 3. [x] [cc-selfeval-notes - Gdoc](https://docs.google.com/document/d/1gkS7u5TcMAIfSinJBkw_nh4nJJRU2vPaxB9hCxtfoDw/edit?usp=sharing): doc and [cc-selfeval - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVOFAxdS1BazRERlk)
 4. [ ] [ - Medium](https://medium.com/new-story)
