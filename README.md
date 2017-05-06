@@ -1,6 +1,6 @@
 # The Designed Classroom
 ## Re-framing Planning and Teaching as a Design Challenge
-### [\(Summary of\)What's Inside ](SUMMARY.md)
+### [\(Summary of\) What's Inside ](SUMMARY.md)
 
 ___
 
