@@ -3,6 +3,10 @@
 * [Title Page](000-title-page.md)
 * [Dedication](000-dedication.md)
 * [Introduction](README.md)
+  * [Design Thinking](dt/design-thinking.md)
+  * [Agile and Lean](pm/agile-lean.md)
+  * [Blended Classroom](para/blended-classroom.md)
+  * [Social Constructivism](para/constructivism.md)
 * [Medium Articles](medium.md)
   * [Redefining the Classroom](00-9-week00.md)
   * [Ripping the Design Brief](01-5-week01.md)
@@ -19,4 +23,5 @@
     * [Curricular and Content Self-Reports v2](csl/new-stem/v2.md)
     * [Curricular and Content Self-Reports v3](csl/new-stem/v3.md)
     * [Curricular and Content Self-Reports v4](csl/new-stem/v4.md)
+
 
