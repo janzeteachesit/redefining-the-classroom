@@ -7,6 +7,8 @@
   * [Agile and Lean](pm/agile-lean.md)
   * [Blended Classroom](para/blended-classroom.md)
   * [Social Constructivism](para/constructivism.md)
+  * [Project Based Learning](pbl/pbl.md)
+  * [Going Gradeless](csl/going-gradeless.md)
 * [Medium Articles](medium.md)
   * [Redefining the Classroom](00-9-week00.md)
   * [Ripping the Design Brief](01-5-week01.md)
