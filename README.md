@@ -1,5 +1,8 @@
 # The Designed Classroom
 ## Re-framing Planning and Teaching as a Design Challenge
+
+> Documenting what I learn as I attempt to use Design Thinking, Agile and Lean methodologies, Blended Classroom and Social Constructivist paradigms, Project-Based Learning and Going Gradeless to design, iterate, teach and assess during the 2016–2017 school year. 
+
 ### [\(Summary of\) What's Inside ](SUMMARY.md)
 
 ___
