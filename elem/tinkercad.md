@@ -9,9 +9,9 @@ Tinkercad is used to make toys, prototypes, home decor, Minecraft models, jewelr
 - [Tinkdercad Teach](https://www.tinkercad.com/teach)
   1. Teachers: sign in to your account to create an Invite Code from the Teach page and share it with your students. Many teachers write the code on the board.
   2. Students log in and access their dashboard by clicking the Tinkercad logo.
-  3. Students enter the Invite Code in the Get Approved box. They are added to teacher’s Moderated Kids as approved Tinkercad users.
-- []()
-- []()
+  3. Students enter the Invite Code in the Get Approved box. They are added to teacher’s Moderated Kids as approved Tinkercad users. Students age 13+ may create their own Tinkercad account and start designing immediately. Students age 12 and under will need the Invite Code for instant approval of their accounts.
+- [3D Design Gallery](https://www.tinkercad.com/things/)
+- [Tinkercad Blog - From Mind to Design in Minutes](https://blog.tinkercad.com/)
 - [Part of the Autodesk Family]() In June 2013, Tinkercad became part of Autodesk, joining the 123D family of products.
 
 # How to use Tinkercad
