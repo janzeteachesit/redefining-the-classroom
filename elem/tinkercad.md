@@ -28,7 +28,7 @@ Group together a set of shapes to create models as detailed as you want.
 2. In the top, right corner, click "SIGN IN", \(there isn't any need to sign-up; you will be using you School Account\).
 3. Click "OR SIGN IN USING SOCIAL PROVIDERS".
 4. Click "Google"; if you are not already signed in to your School account, sign in now.
-5. click "Allow" and "Continue".
+5. click "Allow" and "Continue" \(You will only need to do this the first time\).
 6. You should now be at you profile.
 
 
