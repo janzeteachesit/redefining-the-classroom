@@ -15,7 +15,7 @@
 8. For bonus marks, right-click on the image of your project and select "Save image as" (or "Save Picture as ...") and Add it as a link on the Google Classroom assignment as well.
 9. Repeat Steps 1 - 8 for each object you want to submit.
 
-### Notes
+### Notes & Links
 - https://www.tinkercad.com/search/?q=%23TinkerTeamUp
 - https://blog.tinkercad.com/2017/04/25/new-myminifactory-integration/
-
+- [tinkercad - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVYmRqU0I3Y0k2SDg)
