@@ -23,3 +23,17 @@ Original [Session 2 20170413 - GDrive](https://docs.google.com/document/d/1D7DM9
 - [ ] [20170413-Session 2 - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVR1Uwd3Q1T0MzMUk) links to originals and files
 - [ ] [ELEM INQ 2016-2017 Session 2 - GPhotos](https://goo.gl/photos/ZP3ZbNoAhEGPnab38) - write ups
 - [ ] [CSL for ELEM](csl-elem.md)
+
+
+### Notes
+
+On the whole we talked about how much of what was asked for in the new curriculum is already being done by teachers in other Language Arts/Science/Social Studies projects, and how to “wrap-in” new curriculum activities.  Oh, and the focus of ALL activities was Real-World; i.e. No computer required; great as a supplement, but not necessary.
+
+We spent the most time looking at the Project-Mapping-to-ADST-6-9 – what the sections mean and how they compare to the STEM Design model.  
+
+We also looked at the “Choose Your Own Adventure” project (pp 53 – 71) in the Unit-1_Unit-2 pdf.  A number of groups looked at how they might implement a Choose Your Own Adventure as a (Non-)Fiction, branching story. 
+
+Finally, we spent a bit of time with the Discover_Skills_BC pdf as it is an interesting Design Project looking at a real-world need: providing footwear to people who can’t afford to buy any.
+
+I also talked a bit about the new Communicating Student Learning District Inquiry group that I was a part of this year, and what the District direction was on what to do about the Core Competencies.  I also offered to share the documents what we had developed to help meet that need, as well as the documents I was developing around the Content and Curricular Competencies for Grade 6 & 7 Math, Science and ADST.
+
