@@ -23,9 +23,9 @@ Group together a set of shapes to create models as detailed as you want.
 - [Part of the Autodesk Family](http://autodesk.com/) Tinkercad became part of Autodesk in 2013.
 
 # How to use Tinkercad
-### sign in
+### Sign In
 1. Go to https://www.tinkercad.com/.
-2. In the top, right corner, click "SIGN IN".
+2. In the top, right corner, click "SIGN IN", \(there isn't any need to sign-up; you will be using you School Account\).
 3. Click "OR SIGN IN USING SOCIAL PROVIDERS".
 4. Click "Google"; if you are not already signed in to your School account, sign in now.
 5. click "Allow" and "Continue".
