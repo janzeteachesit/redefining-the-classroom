@@ -6,8 +6,7 @@
 #### Content Learning Standard
 > Students will experience a minimum of three modules of Applied Design, Skills, and Technologies 6-7 in each of Grades 6 and 7. Schools may choose from among the modules listed below or develop new modules that use the Curricular Competencies of Applied Design, Skills, and Technologies 6-7 with locally developed content. Locally developed modules can be offered in addition to, or instead of, the modules in the provincial curriculum.
 
-- https://curriculum.gov.bc.ca/curriculum/adst/6
-- https://curriculum.gov.bc.ca/curriculum/adst/7
+- https://curriculum.gov.bc.ca/curriculum/adst/6 &  https://curriculum.gov.bc.ca/curriculum/adst/7
    - simple algorithms (for sorting, searching, sequence, selection, and repetition; specific statements to complete a simple task; cryptography and code breaking (e.g., cyphers)) that reflect computational thinking
    - visual representations (graphs, charts, network diagrams, info graphics, flow charts, lists, tables, or arrays) of problems and data
    - evolution of programming languages (historical perspectives, evolution (e.g., Ada Lovelace, punch cards, Hollerith, Grace Hopper, Alan Turing, Enigma, cyphers))
