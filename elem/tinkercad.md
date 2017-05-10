@@ -1,6 +1,7 @@
 # What Is "Tinkercad"?
 
 ### [Tinkercad](https://www.tinkercad.com/) is a simple, online 3D design and 3D printing app for everyone.
+Tinkercad is used to make toys, prototypes, home decor, Minecraft models, jewelry and many more things.
 ### How it works:
 ![](https://www.tinkercad.com/img/redesign/TinkerClip.gif)
 #### 1. Place
@@ -10,7 +11,6 @@ Move, rotate and adjust shapes freely in space. Use tools like the ruler to inpu
 #### 3. Combine
 Group together a set of shapes to create models as detailed as you want.
 
-Tinkercad is used to make toys, prototypes, home decor, Minecraft models, jewelry and many more things.
 - [Tinkercad features](https://www.tinkercad.com/about/features)
   - browser-based 3D design and modeling tool
 - [Tinkercad Basic Skills (Beta)](https://www.tinkercad.com/learn/), as well as [Tinkercad Projects \(Beta\)](https://www.tinkercad.com/learn/projects#/project-gallery;collectionId=OY5L5E8IRXTI47Z), more Lessons, [tutorials & how-to's \(in English\) - YouTube](http://www.youtube.com/user/Tinkercad)
