@@ -1,6 +1,14 @@
 # What Is "Tinkercad"?
 
-### Tinkercad is a simple, online 3D design and 3D printing app for everyone.
+### [Tinkercad](https://www.tinkercad.com/) is a simple, online 3D design and 3D printing app for everyone.
+### How it works:
+![](https://www.tinkercad.com/img/redesign/TinkerClip.gif)
+#### 1. Place
+Shapes are basic building blocks of Tinkercad. A shape can add or remove material. Import your own, or work with existing shapes.
+#### 2. Adjust
+Move, rotate and adjust shapes freely in space. Use tools like the ruler to input exact dimensions.
+#### 3. Combine
+Group together a set of shapes to create models as detailed as you want.
 
 Tinkercad is used to make toys, prototypes, home decor, Minecraft models, jewelry and many more things.
 - [Tinkercad features](https://www.tinkercad.com/about/features)
@@ -12,7 +20,7 @@ Tinkercad is used to make toys, prototypes, home decor, Minecraft models, jewelr
   3. Students enter the Invite Code in the Get Approved box. They are added to teacher’s Moderated Kids as approved Tinkercad users. Students age 13+ may create their own Tinkercad account and start designing immediately. Students age 12 and under will need the Invite Code for instant approval of their accounts.
 - [3D Design Gallery](https://www.tinkercad.com/things/)
 - [Tinkercad Blog - From Mind to Design in Minutes](https://blog.tinkercad.com/)
-- [Part of the Autodesk Family]() In June 2013, Tinkercad became part of Autodesk, joining the 123D family of products.
+- [Part of the Autodesk Family](http://autodesk.com/) Tinkercad became part of Autodesk in 2013.
 
 # How to use Tinkercad
 ### sign in
