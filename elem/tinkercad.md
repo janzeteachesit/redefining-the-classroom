@@ -24,7 +24,13 @@ Group together a set of shapes to create models as detailed as you want.
 
 # How to use Tinkercad
 ### sign in
-1. https://www.tinkercad.com/ and sign in with "Other Service Provider"
+1. Go to https://www.tinkercad.com/.
+2. In the top, right corner, click "SIGN IN".
+3. Click "OR SIGN IN USING SOCIAL PROVIDERS".
+4. Click "Google"; if you are not already signed in to your School account, sign in now.
+5. click "Allow" and "Continue".
+6. You should now be at you profile.
+
 
 
 ### How to share
