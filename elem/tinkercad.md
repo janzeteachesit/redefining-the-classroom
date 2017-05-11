@@ -40,9 +40,18 @@ Group together a set of shapes to create models as detailed as you want.
 4. To the right of the Title, click on the Gear icon (Edit Thing properties)
 5. Change "Visibility" from "Private" to "Public"
 6. Click "Save changes"
-7. (If necessary, repeat Steps 2 & 3); A new section "Share with friends:" will be visible.  Copy the contents of the "Link:" box and Add it as a link on the Google Classroom assignment.
+7. (If necessary, repeat Steps 2 & 3); A new section "Share with friends:" will be visible. Copy the contents of the "Link:" box and Add it as a link on the Google Classroom assignment.
 8. For bonus marks, right-click on the image of your project and select "Save image as" (or "Save Picture as ...") and Add it as a link on the Google Classroom assignment as well.
 9. Repeat Steps 1 - 8 for each object you want to submit.
+
+To mark THIS assignment complete, ADD a link to your profile before you submit it (See my example below). 
+
+The link to your profile is in the top-right if you click on your image and then your username.
+
+- [Janzeteachesit - Tinkercad Profile](https://www.tinkercad.com/users/6xVxWWw0wv8-janzeteachesit)
+
+
+- [How to link your work from Tinkercad to GClass - GDoc](https://docs.google.com/document/d/1_xYI4EJRNl1wXAMp-BrN6i9xObmLzmFP4EJBxXEukeA/edit?usp=sharing)
 
 ### Notes & Links
 - https://www.tinkercad.com/search/?q=%23TinkerTeamUp
