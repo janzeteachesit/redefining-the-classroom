@@ -49,8 +49,6 @@ To mark THIS assignment complete, ADD a link to your profile before you submit i
 The link to your profile is in the top-right if you click on your image and then your username.
 
 - [Janzeteachesit - Tinkercad Profile](https://www.tinkercad.com/users/6xVxWWw0wv8-janzeteachesit)
-
-
 - [How to link your work from Tinkercad to GClass - GDoc](https://docs.google.com/document/d/1_xYI4EJRNl1wXAMp-BrN6i9xObmLzmFP4EJBxXEukeA/edit?usp=sharing)
 
 ### Notes & Links
