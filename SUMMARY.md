@@ -18,6 +18,7 @@
     * [Elementary Inquiry Session Two Agenda](elem/session-two-agenda.md)
   * Applied Design, Skills and Technologies
     * []()
+       * [Hour of Code](elem/hour-of-code.md)
     * []()
        * [TinkerCad](elem/tinkercad.md)
 * [Communicating Student Learning](csl/csl.md)
