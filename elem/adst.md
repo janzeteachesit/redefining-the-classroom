@@ -14,7 +14,7 @@ As of September 2016, BC K - 9 Teachers have been using the new BC [Applied Desi
 > The new Applied Design, Skills, and Technologies (ADST) curriculum is an experiential, hands-on program of learning through design and creation that includes skills and concepts from traditional and First Peoples practice; from the existing disciplines of Business Education, Home Economics, Information Technology, and Technology Education; and from new and emerging fields. It envisions a K–12 continuum fostering the development of the skills and knowledge that will allow students to create practical and innovative responses to everyday needs and problems.
 > [_Applied Design, Skills and Technologies_ - gov.bc.ca](https://curriculum.gov.bc.ca/curriculum/applied-design-skills-and-technologies/introduction)
 
-. | K–3	| 4–5	| 6–8	| 9–10	| 11–12
+  | K–3	| 4–5	| 6–8	| 9–10	| 11–12
 ---|---|---|---|---|---
 Applied Design|	Designs grow out of natural curiosity.|	Designs can be improved with prototyping and testing.|	Design can be responsive to identified needs.|	Social, ethical, and sustainability considerations impact design.|	Products can be designed for lifecycle.
 Applied Skills|	Skills can be developed through play.|	Skills are developed through practice, effort, and action.|	Complex tasks require the acquisition of additional skills.|	Complex tasks require the sequencing of skills.|	Personal design interests require the evaluation and refinement of skills.
