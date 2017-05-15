@@ -17,5 +17,7 @@ As of September 2016, BC K - 9 Teachers have been using the new BC [Applied Desi
 . | K–3	| 4–5	| 6–8	| 9–10	| 11–12
 ---|---|---|---|---|---
 Applied Design|	Designs grow out of natural curiosity.|	Designs can be improved with prototyping and testing.|	Design can be responsive to identified needs.|	Social, ethical, and sustainability considerations impact design.|	Products can be designed for lifecycle.
-
-
+Applied Skills|	Skills can be developed through play.|	Skills are developed through practice, effort, and action.|	Complex tasks require the acquisition of additional skills.|	Complex tasks require the sequencing of skills.|	Personal design interests require the evaluation and refinement of skills.
+Applied Technologies	|
+Technologies are tools that extend human capabilities.|
+The choice of technology and tools depends on the task.|	Complex tasks may require multiple tools and technologies.|	Complex tasks require different technologies and tools at different stages.|	Tools and technologies can be adapted for specific purposes.
