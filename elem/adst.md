@@ -16,6 +16,7 @@ As of September 2016, BC K - 9 Teachers have been using the new BC [Applied Desi
 
 ### Big Ideas of the ADST curriculum
 The Big Ideas are intended to capture a progression of learning in applying design processes, skills, and technologies, as shown in the chart below. 
+
  . | K–3	| 4–5	| 6–8	| 9–10	| 11–12
 ---|---|---|---|---|---
 Applied Design|	Designs grow out of natural curiosity.|	Designs can be improved with prototyping and testing.|	Design can be responsive to identified needs.|	Social, ethical, and sustainability considerations impact design.|	Products can be designed for lifecycle.
@@ -72,11 +73,58 @@ Applied Design|	.|	.|	.|	.|	.
 Applied Skills|	.|	.|	.|	.|	.
 Applied Technologies	|.|	.|	.|	.|	.
 
+Thinking	
+Generate ideas from their experiences and interests
+Add to others’ ideas
+Generate potential ideas and add to others’ ideas
+Screen ideas against the objective and constraints	
+Generate potential ideas and add to others’ ideas
+Screen ideas against criteria and constraints	
+Take creative risks in generating ideas and add to others’ ideas in ways that enhance them
+Critically analyze and prioritize competing factors, including social, ethical, and sustainability considerations, to meet community needs for preferred futures	
+Take creative risks to identify gaps to explore as design space
+Critically analyze how competing social, ethical, and sustainability considerations impact designed solutions to meet global needs for preferred futures
+Communication	Demonstrate their product, tell the story of designing and making their product	Demonstrate their product and describe their process	Demonstrate their product and describe their process, using appropriate terminology and providing reasons for their selected solution and modifications	Demonstrate their product to potential users, providing a rationale for the selected solution, modifications, and procedures, using appropriate terminology 	Share their progress while making to increase feedback, collaboration, and, if applicable, marketing
+Personal and Social	Explain how their product contributes to the individual, family, community, and/or environment	Determine whether their product met the objective and contributes to the individual, family, community, and/or environment	Identify the personal, social, and environmental impacts, including unintended negative consequences, of the choices they make about technology use	Evaluate the personal, social, and environmental impacts, including unintended negative consequences, of the choices they make about technology use	Analyze the role and impact of technologies in societal change, and the personal, social, and environmental impacts, including unintended negative consequences, of their choices of technology use
+
+Content
+
+The ADST curriculum does not specify any Content learning standards for Kindergarten through Grade 5. The intent is for teachers to use the Curricular Competencies from ADST K–5 with grade-level content from other areas of learning to provide students with cross-curricular opportunities to develop foundational mindsets and skills in design thinking and making. For example, students might design and build something based on the Content learning standards in the Science or Social Studies curriculum.
+For Grades 6 to 12, the Content is concept-based and includes learning standards for the four existing Applied Skills disciplines (Business Education, Home Economics, Information Technology, and Technology Education) and for new and emerging fields such as Media Arts.
+Content learning standards are stated as topics. This creates the space for students to personalize their learning by making choices about what they design and make and the depth and breadth of their learning on a particular topic based on their own interests and passions. The generality of the Content learning standards also facilitates inclusion by allowing the teacher or the student to adjust depth and breadth to match abilities.
+Grades 6 to 9 are intended as exploration years. For Grades 6 and 7, this is a new provincial curriculum; for Grades 8 and 9, it is a redesigned curriculum.
+The curriculum provides one set of Content options for Grades 6 and 7 that are intended to be short modules that may be offered in rotation. Over the two years, students may be exposed to several of these and perhaps other locally developed options that also use the Curricular Competencies of ADST with locally developed content. This approach provides provincial recognition of the variety and scope of existing locally developed middle years programs and a template for the development of additional local programs.
+There are separate sets of Content options for Grade 8 and Grade 9. These may be offered as modular rotations of varying length, as is common for Grade 8 now, or as full-year courses, as is often the case in Grade 9 now. The Content elaborations are non-mandatory curricular supports that suggest possible depth and breadth for teaching concepts.
+The Content options for Grade 10, 11, and 12 have been significantly redesigned and reorganized to build on the new program in Kindergarten to Grade 7 and the redesigned program in Grades 8 and 9, to maintain a focus on designing and making, and to reflect developments in the domain. Some courses have been combined, some have been eliminated, some have been renamed, and some have been moved to and from other learning areas. Economics 12 has been moved to the Social Studies learning area; new Computer Science 11 and 12 courses have been developed in the Mathematics learning area; and Media Arts 10–12, with a focus on the application of digital technologies, has been moved to the Applied Design, Skills, and Technologies learning area. These elective courses are intended to offer students opportunities
+to continue exploring their interests or to specialize in an area of interest.
+Considerations for delivering ADST
+
+At all grade levels
+
+The focus on hands-on designing and making, acquisition and honing of skills, and choosing and applying technologies requires a high degree of student choice, although there may still be a place for common activities for specific purposes — for example, to introduce new skills or equipment, to communicate safety procedures, or to explicitly focus on one aspect of the design process
+The curriculum is inclusive of modern and traditional First Peoples design, skills, and technologies. Students should have opportunities to learn from local First Peoples. This will require an understanding by both students and teachers of appropriation issues and that some knowledge is considered sacred
+Kindergarten to Grade 5
+
+Students can be given opportunities to develop foundational skills in ADST through exploratory and purposeful play, and through designing and making activities related to the content in other areas of learning. This is already a normal practice in K–5 classrooms and will not require additional time or resources
+A single set of Curricular Competencies for Kindergarten to Grade 3 provides common language and continuity for the first four years
+Another set of Curricular Competencies for Grades 4 and 5, with more stages delineated for Applied Design, encourages students to take a more purposeful approach to designing and making
+Grades 6 and 7
+
+The curriculum is designed to be modular to allow for choice and a variety of delivery models depending on school configuration and student interest
+The requirement will be that students experience a minimum of three modules of ADST in each of Grades 6 and 7. Schools may choose from among the modules provided in the provincial curriculum or develop new modules that use the Curricular Competencies of ADST 6–7 with locally developed content. Locally developed modules can be offered in addition to, or instead of, the modules in the provincial curriculum
+Schools that currently have an exploratory rotation may choose to continue with that delivery model for ADST. Schools that do not currently have an exploratory rotation may wish to develop one, or to teach ADST modules in an integrated cross-curricular way with other areas of learning
+Grades 8 and 9
+
+Schools will be able to accommodate the redesigned ADST curriculum within their current delivery models
+The curriculum may be offered as modular rotations of varying length, as is common for Grade 8 now, or as full courses, as is often the case in Grade 9 now
+There are more Content learning standards for Grade 9, as schools often offer these as full courses
+Schools are expected to offer students the equivalent of a “full-year” program in ADST. This can be made up of one or more modules
+Schools may choose from among the modules provided in the provincial curriculum or develop new modules that use the Curricular Competencies of ADST 8 or 9 with locally developed content. Locally developed modules can be offered in addition to, or instead of, the modules in the provincial curriculum
+As the new ADST curriculum has explorations starting in Grade 6, schools may wish to offer students more choice in Grades 8 and 9 than was offered previously
+Grades 10 to 12
+
+Schools will be able to provide a variety of elective courses in Applied Design, Skills, and Technologies to meet student interests
+Current Board/Authority Authorized (BAA) courses remain approved. School and districts interested in revising BAA courses or developing new ones are encouraged to use the Curricular Competencies that are common for all Applied Design, Skills, and Technologies courses.  
+
 
 -->
-
- . | K–3	| 4–5	| 6–8	| 9–10	| 11–12
----|---|---|---|---|---
-Applied Design|	.|	.|	.|	.|	.
-Applied Skills|	.|	.|	.|	.|	.
-Applied Technologies	|.|	.|	.|	.|	.
