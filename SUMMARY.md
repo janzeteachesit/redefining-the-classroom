@@ -16,11 +16,19 @@
   * [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
     * [Elementary Inquiry Session One Agenda](elem/session-one-agenda.md)
     * [Elementary Inquiry Session Two Agenda](elem/session-two-agenda.md)
-  * Applied Design, Skills and Technologies
-    * []()
+    * Elementary Inquiry Session Two Agenda
+    * [CSL for Elemantary Math, Science and ADST](elem/csl-elem.md)
+  * [Applied Design, Skills and Technologies](adst.md)
+    * [Computational Thinking](elem/computational-thinking.md)
        * [Hour of Code](elem/hour-of-code.md)
-    * []()
+       * [Computing Without Computers](elem/computing-without-computers.md)
+       * [CS Unplugged](elem/csunplugged.md)
+    * [Drafting & 3D Design](elem/3d-design.md)
        * [TinkerCad](elem/tinkercad.md)
+    * [Digital Media](elem/digital-media.md)
+    * [Computers and Communications Devices](elem/devices.md)
+       * [Encryption](elem/encryption.md)
+    * Robotics   
 * [Communicating Student Learning](csl/csl.md)
   * [New Stem Report Cards](csl/new-stem-reports.md)
     * [Progress Charts](csl/new-stem/progress-charts.md)
