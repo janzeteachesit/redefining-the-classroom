@@ -17,7 +17,7 @@
     * [Elementary Inquiry Session One Agenda](elem/session-one-agenda.md)
     * [Elementary Inquiry Session Two Agenda](elem/session-two-agenda.md)
     * Elementary Inquiry Session Two Agenda
-    * [CSL for Elemantary Math, Science and ADST](elem/csl-elem.md)
+    * [CSL Rubrics for Elementary 6 & 7](elem/csl-elem.md)
   * [Applied Design, Skills and Technologies](adst.md)
     * [Computational Thinking](elem/computational-thinking.md)
        * [Hour of Code](elem/hour-of-code.md)
