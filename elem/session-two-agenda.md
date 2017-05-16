@@ -1,97 +1,33 @@
-# CSL Rubrics for Elementary 6 & 7
-## Math, Science, ADST
-### Sunday, April 30, 2017
+# Elementary Inquiry Group
+## Session 2 20170413
+### Agenda
 
-#### Essential Question/Purpose
-What would meaningful, robust, rubrics for formatively communicating and assessing student learning and that encourage students to reflect on their learning (both successes and areas of growth) look like? - TOO LONG
+February 27th, 2017
+Conference Room
 
-[CSL Rubrics for Elementary 6 & 7 for Math, Science, ADST - docx](https://drive.google.com/open?id=0BysMfTbvAUUVTE1kckUyeFlFb0E)
+#### 9:00 - 12:00
+   1. What has already been done
+      1. CODE BC is a joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
+         1. [Project Mapping to ADST 6-9 Competencies](http://codebc.ca/wp-content/uploads/2017/01/Project-Mapping-to-ADST-6-9-Competencies-v1-75Copies.pdf)
+         2. [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf)
+         3. [Teacher Training Package](http://codebc.ca/wp-content/uploads/2017/01/TTP_22pages_LighthouseLabs-v3.pdf)
+      2. Discover Skills BC is an initiative funded by the BC Government to provide access for secondary students and their teachers and parents to the many educational opportunities available to them in trades and technology training.
+         1. [Prototyping through problem solving—Shoe Tying Project](http://discoverskillsbc.ca/wp-content/uploads/2016/11/Discover_Skills_BC_tech_gr6_7_module-4.pdf)
+         2. [Design and Build a Toothpick House](http://discoverskillsbc.ca/wp-content/uploads/2016/11/Discover_Skills_BC_trades_gr8_9_module.pdf)
+   2. Brainstorm class unit
+  
+#### 1:00 - 3:00
+   3. Afternoon - Group work sessions
 
-#### Genre - 
-Reference for other teachers
-Diary of process(?): Why did I do it this way? see/answer in thesis below
+Original [Session 2 20170413 - GDoc](https://docs.google.com/document/d/1D7DM9rkaHUG1uZag-e0radD3krJBzQraRcUqI0jSLsk/edit?usp=sharing)
+ - [ ] [20170413-Session 2 - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVR1Uwd3Q1T0MzMUk) links to originals and files
+ - [ ] [ELEM INQ 2016-2017 Session 2 - GPhotos](https://goo.gl/photos/ZP3ZbNoAhEGPnab38) - write ups
+ - [ ] [CSL for ELEM](csl-elem.md)
 
-##### Thesis - 
-
-- This is what I got from this article or experience:
-- This is what I will use it for going forward:
-- I was reading blank.  It reminded me of blank experience.
-
-[Notes](csl-elem-notes.md)
-* [session-two-agenda.md](session-two-agenda.md)
-* [csl-core-competencies-notes - GDoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit#heading=h.st24mlpt21ht); [csl-core-competencies-notes.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/csl-core-competencies-notes.md): 20170322
-* [New BC Curriculum](https://curriculum.gov.bc.ca/)
-
-#### Links (External / Static)
-* [The Designed Classroom](https://github.com/janzeteachesit/redefining-the-classroom): GitHub repo
-* [session-two-agenda.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/elem/session-two-agenda.md): genesis for this post
-
-#### Process / Link(s) to work
-1. [x] [csl-elem.md](https://github.com/janzeteachesit/redefining-the-classroom/blob/master/elem/csl-elem.md): in redefining-the-classroom/elem/
-2. [ ] [Grammarly](https://app.grammarly.com/)
-3. [x] [csl-elem-notes - Gdoc](https://docs.google.com/document/d/1m6423fzJUwjC8vHuog_f8UsV8B8rUyC7XS9tNGWMnRM/edit): doc and [csl-elem - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZjV6SUIxUTlDYU0)
-4. [ ] [ - Medium](https://medium.com/new-story)
-5. [ ] [GImages => Tools => Usage Rights => Non-commercial reuse with modifications](https://www.google.ca/search?site=&tbm=isch&source=hp&biw=1050&bih=1535&q=writing&oq=writing&gs_l=img.3..35i39k1j0l9.3740.4602.0.5147.8.8.0.0.0.0.51.309.7.7.0....0...1.1.64.img..1.7.305.0.uKI6HM6QkmA#q=writing&tbs=sur:fm&tbm=isch)
-6. [ ] Medium publishing
-    - [ ] Tags: janzeteachesit, …
-    - [ ] Share on twitter
-    - [ ] License: Attribution, non-commercial, share alike.
-    - [ ] Published date: 
-7. [ ] [Link - GitHub](100.md)
-8. [ ] [Summary](../SUMMARY.md)
-9. [ ] [Tally](tally.md)
-10. [ ] [ - GitBook]()
-11. [ ] [ - gh-pages]()
-
-
-
-## Structure
-#### Beginning 
-__*establish*__ relationship early in the piece,
-
-#### Middle
-__*sustain*__ it through consistent description,
-
-- Point/Snapshot/Event 
-- Point/Snapshot/Event
-
-#### End
-and (perhaps) __*transform*__ it when new factors are introduced
-
-
-## TOC
-
-* [Main](readme.md)
-* [Summary](SUMMARY.md)
-* [Log - click here to see my progress](docs/log.md)
-* [How am I doing so far?](tally.md)
-* [markdown editor](http://jbt.github.io/markdown-editor/)
-* [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
-
-### Details
-
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:
-
-## Retrospective
-### Today's Progress
-
-#### Thoughts
-
-#### Supporting Research
-
-
-
-
-## Resources
-- [Organizing GitHub 20170430](https://docs.google.com/document/d/1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c/edit#)
-- [My Medium Profile](https://medium.com/@janzeteachesit)
-- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
-- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
-- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
-- [New Story - Medium](https://medium.com/new-story)
-- [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
-
+### Notes
+- On the whole we talked about how much of what was asked for in the new curriculum is already being done by teachers in other Language Arts/Science/Social Studies projects, and how to “wrap-in” new curriculum activities.  Oh, and the focus of ALL activities was Real-World; i.e. No computer required; great as a supplement, but not necessary.
+- We spent the most time looking at the Project-Mapping-to-ADST-6-9 – what the sections mean and how they compare to the STEM Design model.  
+- We also looked at the “Choose Your Own Adventure” project (pp 53 – 71) in the Unit-1_Unit-2 pdf.  A number of groups looked at how they might implement a Choose Your Own Adventure as a (Non-)Fiction, branching story. 
+- Finally, we spent a bit of time with the Discover_Skills_BC pdf as it is an interesting Design Project looking at a real-world need: providing footwear to people who can’t afford to buy any.
+- I also talked a bit about the new Communicating Student Learning District Inquiry group that I was a part of this year, and what the District direction was on what to do about the Core Competencies.  I also offered to share the documents what we had developed to help meet that need, as well as the documents I was developing around the Content and Curricular Competencies for Grade 6 & 7 Math, Science and ADST. 
 
