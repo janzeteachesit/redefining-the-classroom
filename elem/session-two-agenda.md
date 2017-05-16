@@ -21,6 +21,10 @@ Conference Room
 
 Original [Session 2 20170413 - GDoc](https://docs.google.com/document/d/1D7DM9rkaHUG1uZag-e0radD3krJBzQraRcUqI0jSLsk/edit?usp=sharing)
  - [ ] [20170413-Session 2 - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVR1Uwd3Q1T0MzMUk) links to originals and files
+   - [CS Fundamentals Unplugged Lessons _ Code.pdf](https://drive.google.com/open?id=0BysMfTbvAUUVRjZnLXk5R0xOQlE)
+   - [CSUnplugged_OS_2015_v3.1.pdf](https://drive.google.com/open?id=0BysMfTbvAUUVMElfQjJMZHlDcFU)
+   - [Creating a Probability Game (GR4).pdf](https://drive.google.com/open?id=0BysMfTbvAUUVY0otTDFZY2xreU0)
+   - [Antarctica Project–Design Thinking version.pdf](https://drive.google.com/open?id=0BysMfTbvAUUVNUY1VXZDTzk4dWs)
  - [ ] [ELEM INQ 2016-2017 Session 2 - GPhotos](https://goo.gl/photos/ZP3ZbNoAhEGPnab38) - write ups
  - [ ] [CSL for ELEM](csl-elem.md)
 
