@@ -58,7 +58,13 @@ Agenda
 Full Agenda available: [Elementary Inquiry Session Two Agenda](session-two-agenda.md)
 
 ## Session 3 20170518
-T.B.D.
+Agenda
+   1. What Did
+   2. Next Steps
+   3. Next Steps Supports Needed?
+   
+Full Agenda available: [Elementary Inquiry Session Three Agenda](session-three-agenda.md)
+
 ### Links
 - [Elementary Inquiry - Public GDrive Folder](https://drive.google.com/open?id=0BysMfTbvAUUVLWZwc09rOVJYa1k)
 - [Elementary Inquiry - O365 Folder](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcjanze_vsb_bc_ca%2FDocuments%2FInquiry%2F20162017-ElementarySTEMADSTCoding&FolderCTID=0x01200081E60F4837F90645810CD018F9ED4888) - Private; sorry :frowning:
