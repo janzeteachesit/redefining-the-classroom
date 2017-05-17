@@ -9,7 +9,7 @@ Conference Room
 Share What worked, What Would Change, What Would Add
    1. What did
       1. Best Part
-      2. If did again, what would __DEFINATELLY NOT__  repeat
+      2. If did again, what would __DEFINITELY NOT__  repeat
       3. If did again, what Additions or Changes
    2. Next Steps
    3. What Requirement need to be met for Next Steps to be succcessful
