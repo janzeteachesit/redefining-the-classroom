@@ -5,7 +5,7 @@
 May 17th, 2017
 Conference Room
 
-#### 9:00 - 12:00
+### 9:00 - 12:00
 Share What worked, What Would Change, What Would Add
    1. What did
       1. Best Part
@@ -14,7 +14,9 @@ Share What worked, What Would Change, What Would Add
    2. Next Steps
    3. What Requirement need to be met for Next Steps to be succcessful
 
-#### Inclusions / Links 
+### Inclusions / Links 
+
+#### Blooms Revised Taxonomy / Domains of Knowledge
 - [bloom-revised-dok - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVVkdBRVllN1o4T1U)
 - [Revised Bloom’s Taxonomy - CELT - ISU](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy#blooms-model)  Center for Excellence in Learning and Teaching \(CELT\), Iowa State University \(ISU\)
 
@@ -26,7 +28,7 @@ Share What worked, What Would Change, What Would Add
   - [Interactive version](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/revised-blooms-taxonomy-flash-version); [gdoc version](https://drive.google.com/open?id=0BysMfTbvAUUVZ19DYzFrQy15SW8)
 - [Bloom et al.'s Taxonomy of the Cognitive Domain](http://www.edpsycinteractive.org/topics/cognition/bloom.html) - edpsycinteractive.org
 - [Bloom's Digital Taxonomy](http://edorigami.wikispaces.com/Bloom%27s+Digital+Taxonomy) - Educational Origami
-- [Applying Webb's DOK to Blooms Revised Taxonomy](http://static.pdesas.org/content/documents/M1-Slide_22_DOK_Hess_Cognitive_Rigor.pdf)  
+- [Applying Webb's DOK to Blooms Revised Taxonomy](http://static.pdesas.org/content/documents/M1-Slide_22_DOK_Hess_Cognitive_Rigor.pdf) 
 - [DOK\/KD Matrix - ](http://cognitiverigor.blogspot.ca/2014/07/dokkd-matrix.html)
 
 
