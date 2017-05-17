@@ -64,7 +64,7 @@ T.B.D.
 - [Elementary Inquiry - O365 Folder](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcjanze_vsb_bc_ca%2FDocuments%2FInquiry%2F20162017-ElementarySTEMADSTCoding&FolderCTID=0x01200081E60F4837F90645810CD018F9ED4888) - Private; sorry :frowning:
 - [Elementary Inquiry - resources O365.xlsx](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=0cd022336e6c64aa194068d1381fbc58e&authkey=ATcTVGHmcRDMg2D_b7xOahk)
 - [x] [20162017-elem-inq-febnotes.md](20162017-elem-inq-febnotes.md) - ~~\_drafts/20162017-elementary-inquiry.md~~ - moved from 100 days of writing and deleted.
-- [ ] [\_drafts/painting-with-water-first.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/painting-with-water-first.md) - move over
+- [x] [painting-with-water-first.md](painting-with-water-first.md) - ~~\_drafts/painting-with-water-first.md~~ - moved from 100 days of writing and deleted.
 
 
 
