@@ -16,7 +16,8 @@
   * [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
     * [Elementary Inquiry Session One Agenda](elem/session-one-agenda.md)
     * [Elementary Inquiry Session Two Agenda](elem/session-two-agenda.md)
-    * Elementary Inquiry Session Two Agenda
+    * [lementary Inquiry Session Two Agenda](elem/session-three-agenda.md)
+    * [2016-2017 Elementary Inquiry Feb Notes](elem/20162017-elem-inq-febnotes.md)
     * [CSL Rubrics for Elementary 6 & 7](elem/csl-elem.md)
   * [Applied Design, Skills and Technologies](elem/adst.md)
     * [Computational Thinking](elem/computational-thinking.md)
