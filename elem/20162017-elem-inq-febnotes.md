@@ -1,4 +1,5 @@
-# 2016-2017 Elementary Inquiry
+# 2016-2017 Elementary Inquiry 
+## Notes 20170227
 
 - [#16](https://github.com/janzeteachesit/Learning-Diary/issues/16)
 - [20162017ElementarySTEMADSTCoding - GDoc](https://docs.google.com/document/d/1M6DjJsZZdQIa-MNnbxhR6-xQoUEqmnFQwinKClefbkM/edit)
