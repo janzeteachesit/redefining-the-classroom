@@ -22,6 +22,10 @@ Share What worked, What Would Change, What Would Add
 --- | ---
 ###### src: http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png | src: https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg
 
-  - [CELT .pdf version](http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf); [Interactive version](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/revised-blooms-taxonomy-flash-version); [gdoc version](https://drive.google.com/open?id=0BysMfTbvAUUVZ19DYzFrQy15SW8) - 
+  - [CELT .pdf version](http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf); [gdoc vesrion](https://drive.google.com/open?id=19QKfOIvAaeRxcR39_RotrppgBdNf3i5VCe0qfjp799Q)
+  - [Interactive version](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/revised-blooms-taxonomy-flash-version); [gdoc version](https://drive.google.com/open?id=0BysMfTbvAUUVZ19DYzFrQy15SW8)
 - [Bloom et al.'s Taxonomy of the Cognitive Domain](http://www.edpsycinteractive.org/topics/cognition/bloom.html) - edpsycinteractive.org
 - [Applying Webb's DOK to Blooms Revised Taxonomy](http://static.pdesas.org/content/documents/M1-Slide_22_DOK_Hess_Cognitive_Rigor.pdf)  
+- [DOK\/KD Matrix - ](http://cognitiverigor.blogspot.ca/2014/07/dokkd-matrix.html)
+
+
