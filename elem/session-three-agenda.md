@@ -18,9 +18,9 @@ Share What worked, What Would Change, What Would Add
 - [bloom-revised-dok - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVVkdBRVllN1o4T1U)
 - [Revised Bloom’s Taxonomy - CELT - ISU](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy#blooms-model)  Center for Excellence in Learning and Teaching \(CELT\), Iowa State University \(ISU\)
 
-![http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png](https://image.slidesharecdn.com/revisedbloomshandout-120401103539-phpapp02/95/a-model-of-learning-objectives-3-728.jpg?cb=1333276658)
----
-###### src: http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png
+![http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png](https://image.slidesharecdn.com/revisedbloomshandout-120401103539-phpapp02/95/a-model-of-learning-objectives-3-728.jpg?cb=1333276658) | ![https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg](https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg)
+--- | ---
+###### src: http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png | src: https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg
 
   - [CELT .pdf version](http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf); [Interactive version](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/revised-blooms-taxonomy-flash-version); [gdoc version](https://drive.google.com/open?id=0BysMfTbvAUUVZ19DYzFrQy15SW8) - 
 - [Bloom et al.'s Taxonomy of the Cognitive Domain](http://www.edpsycinteractive.org/topics/cognition/bloom.html) - edpsycinteractive.org
