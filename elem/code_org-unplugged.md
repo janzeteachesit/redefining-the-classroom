@@ -1,11 +1,11 @@
 ### [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) 
 
-- [GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVc2MtZEJoV0hTNzA)
+- [GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVc2MtZEJoV0hTNzA) - simple encoding of messages into binary.
   - [U1 - Intro to the Art of Computer Science](https://drive.google.com/open?id=0BysMfTbvAUUVVGdWODlUSkZqZ1E)
-  - [U2 - Computational Thinking](https://drive.google.com/open?id=0BysMfTbvAUUVOVl1ME4za0tHOW8)
-  - [U3 - Graph Paper Programming](https://drive.google.com/open?id=0BysMfTbvAUUVb3dCMEF5Q29xZDQ)  
-  - [U4 - Algorithms](https://drive.google.com/open?id=0BysMfTbvAUUVWXVFN1Ffdzhobk0)
-  - [U5 - Functions](https://drive.google.com/open?id=0BysMfTbvAUUVYUtSZHdhaFdJSFk)
+  - [U2 - Computational Thinking](https://drive.google.com/open?id=0BysMfTbvAUUVOVl1ME4za0tHOW8) - Monster Catalog Face Builder \(like [Identi-Kit - Google Image search](https://www.google.ca/search?q=Identi-Kit&rlz=1C1CHBF_enCA700CA700&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjxjczN4vjTAhVH8GMKHbFcBO8Q_AUICigB&biw=1050&bih=1584))
+  - [U3 - Graph Paper Programming](https://drive.google.com/open?id=0BysMfTbvAUUVb3dCMEF5Q29xZDQ) - drawing pixel images with \(simple\) instructions.
+  - [U4 - Algorithms](https://drive.google.com/open?id=0BysMfTbvAUUVWXVFN1Ffdzhobk0) - Tangrams.
+  - [U5 - Functions](https://drive.google.com/open?id=0BysMfTbvAUUVYUtSZHdhaFdJSFk) - Beading activity - \(Repetitive\) Patterns; could be Textiles, or Art.
   - [U6 - Conditionals\: \(Coding with Cards\)](https://drive.google.com/open?id=0BysMfTbvAUUVOTcxcDVnV0pGeDQ) - introduction to "choice/choosing/it this ... then that"; iuses playing cards, but any type of game piece oculd be used; highly extensible to "Game Making" in Math / procedures in Science / etc.
   - [U7 - Song Writing](https://drive.google.com/open?id=0BysMfTbvAUUVODNjTVlzUkVNU1k) - Cloze-style/"Mad-lib" lyrics \(could be used for poetry, as well\).
   - [U8 - Abstraction](https://drive.google.com/open?id=0BysMfTbvAUUVQkpzTGdwNU1haUU) - Cloze-style/"Mad-lib" mini-story; paragraph level activity, that can connect to "Choose-Your-Own-Adventure+ story-write.
