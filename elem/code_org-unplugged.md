@@ -18,7 +18,7 @@
 
 Concept |	Lesson	| Curriculum Video	| Additional Resources
 --- | --- | --- | ---
-Algorithms| Happy Maps <br />Course 1: Stage 1 <br />(age 4+) <br />At the root of all computer science is something called an algorithm. The word “algorithm” may sound like something complicated, but really it’s just a list of instructions that someone can follow to achieve a result. <br />[Lesson Plan](https://code.org/curriculum/course1/1/Teacher); <br />[Teacher Video](https://www.youtube.com/watch?v=En6Bshuqljg) | https://youtu.be/hrnhiKAQ1_k	| What is an algorithm? How to explain algorithms to kids
+Algorithms| Happy Maps <br />Course 1: Stage 1 <br />(age 4+) <br />At the root of all computer science is something called an algorithm. The word “algorithm” may sound like something complicated, but really it’s just a list of instructions that someone can follow to achieve a result. <br />[Lesson Plan](https://code.org/curriculum/course1/1/Teacher) \| [Teacher Video](https://www.youtube.com/watch?v=En6Bshuqljg) | https://youtu.be/hrnhiKAQ1_k	| What is an algorithm? How to explain algorithms to kids
 
 ### Notes / Links 
 - [Code.org Unplugged](code_org-unplugged.md)
