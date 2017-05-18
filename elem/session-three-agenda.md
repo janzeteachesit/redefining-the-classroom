@@ -1,3 +1,4 @@
+
 # Elementary Inquiry Group
 ## Session 3 20170517
 ### Agenda
@@ -78,6 +79,8 @@ src: http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png | sr
   - [Bloom's Digital Taxonomy](http://edorigami.wikispaces.com/Bloom%27s+Digital+Taxonomy) - Educational Origami
   - [Applying Webb's DOK to Blooms Revised Taxonomy](http://static.pdesas.org/content/documents/M1-Slide_22_DOK_Hess_Cognitive_Rigor.pdf) 
   - [DOK\/KD Matrix - ](http://cognitiverigor.blogspot.ca/2014/07/dokkd-matrix.html)
+
+
 
 
 
