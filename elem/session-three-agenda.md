@@ -16,6 +16,8 @@ Conference Room
 
 ### Inclusions / Links 
 - [session-three-agenda.md](session-three-agenda.md)
+- [20170518-Session-3 GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVeWZqZm9OUzJBM1E)
+- [Elementary Inquiry Group Session 3 20170518 - GDoc](https://drive.google.com/open?id=1UIVtkgExJP96emjE2XXyIDjbym3njo_BbfxcuDb_cj4)
 
 #### CODE BC
 - joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
