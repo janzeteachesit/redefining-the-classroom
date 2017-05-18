@@ -28,4 +28,3 @@ Algorithms| Happy Maps <br />Course 1: Stage 1 <br />(age 4+) <br />At the root 
 - [High School Curriculum](https://code.org/educate/curriculum/high-school)
 - [Middle School Curriculum](https://code.org/educate/curriculum/middle-school)
 - [Overview of Code Studio Courses](https://code.org/educate/curriculum/courses)
-- []()
