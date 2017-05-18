@@ -12,7 +12,7 @@
   - [U9 - Relay Programming](https://drive.google.com/open?id=0BysMfTbvAUUVcTVqTmotSm5waVU)
   - [U10 - The Internet](https://drive.google.com/open?id=0BysMfTbvAUUVbTlKQjVlYWhkVmc)
 
-[CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) - We've compiled a list of all of our unplugged lessons for you to use in your classroom. Now you can teach the fundamentals of computer science, whether you have computers in your classroom or not! Try using these lessons as a stand alone course or as complementary lessons for any computer science course.
+[CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) - list of unplugged lessons for use in the classroom. The lessons can be used as a stand alone course or as complementary lessons for any computer science course.
 - [Curriculum Book](https://code.org/curriculum/docs/k-5/complete_compressed.pdf) - 441 Pages
 - [Answer Keys](https://code.org/curriculum/docs/k-5/teacherKeyComplete.pdf) - 45 pages
 
