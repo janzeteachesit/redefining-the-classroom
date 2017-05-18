@@ -22,6 +22,7 @@ Algorithms| Happy Maps <br />Course 1: Stage 1 <br />(age 4+) <br />At the root 
 
 ### Notes / Links 
 - [code_org-unplugged.md](code_org-unplugged.md)
+- [session-three-agenda.md](session-three-agenda.md)
 - [Video library](https://code.org/educate/resources/videos)
 - [CS Principles Widgets](https://code.org/educate/csp/widgets)
 - [3rd Party Educator Resources](https://code.org/educate/curriculum/3rd-party)
