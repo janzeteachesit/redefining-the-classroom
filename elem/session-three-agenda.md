@@ -48,7 +48,7 @@ Conference Room
   - [U10 - The Internet](https://drive.google.com/open?id=0BysMfTbvAUUVbTlKQjVlYWhkVmc)
  - [code_org-unplugged.md](code_org-unplugged.md)
 
-#### Problem Based Game
+#### Creating a Probability Game Based on Story
    - [Creating a Probability Game (GR4).pdf](https://drive.google.com/open?id=0BysMfTbvAUUVY0otTDFZY2xreU0) - curriculum.gov.bc.ca; a cross-curricular way to address probability content in Grade 4 Mathematics and content from Applied Design, Skills and Technologies 4, which is new to the curriculum. 
 
 #### Antartica
