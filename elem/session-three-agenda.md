@@ -16,10 +16,21 @@ Conference Room
 ### Inclusions / Links 
 - [session-three-agenda.md](session-three-agenda.md)
 
+#### CODE BC
+- joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
+   - [Project Mapping to ADST 6-9 Competencies](http://codebc.ca/wp-content/uploads/2017/01/Project-Mapping-to-ADST-6-9-Competencies-v1-75Copies.pdf)
+   - [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf)
+   - [Teacher Training Package](http://codebc.ca/wp-content/uploads/2017/01/TTP_22pages_LighthouseLabs-v3.pdf)
+
+#### Discover Skills BC
+- initiative funded by the BC Government to provide access for secondary students and their teachers and parents to the many educational opportunities available to them in trades and technology training.
+   - [Prototyping through problem solving—Shoe Tying Project](http://discoverskillsbc.ca/wp-content/uploads/2016/11/Discover_Skills_BC_tech_gr6_7_module-4.pdf)
+   - [Design and Build a Toothpick House](http://discoverskillsbc.ca/wp-content/uploads/2016/11/Discover_Skills_BC_trades_gr8_9_module.pdf)
+
 #### CS Unplugged
 - 
 
-### Code.org Unplugged Activities
+#### Code.org Unplugged Activities
 
 - [GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVc2MtZEJoV0hTNzA)
   - [U1 - Intro to the Art of Computer Science](https://drive.google.com/open?id=0BysMfTbvAUUVVGdWODlUSkZqZ1E) - simple encoding of messages into binary.
