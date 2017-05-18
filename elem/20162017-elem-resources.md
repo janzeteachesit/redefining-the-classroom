@@ -1,5 +1,7 @@
-# Resources
-## Discovered during Elementary Inquiry 2016-2017
+# Resources Uncovered
+## Elementary Inquiry 2016-2017
+
+#### Developed for [our Final session on Thursday, May 17, 2017](session-three-agenda.md)
 
 #### CODE BC
 - joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
