@@ -1,7 +1,7 @@
-### [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) 
+### Code.org Unplugged Activities
 
-- [GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVc2MtZEJoV0hTNzA) - simple encoding of messages into binary.
-  - [U1 - Intro to the Art of Computer Science](https://drive.google.com/open?id=0BysMfTbvAUUVVGdWODlUSkZqZ1E)
+- [GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVc2MtZEJoV0hTNzA)
+  - [U1 - Intro to the Art of Computer Science](https://drive.google.com/open?id=0BysMfTbvAUUVVGdWODlUSkZqZ1E) - simple encoding of messages into binary.
   - [U2 - Computational Thinking](https://drive.google.com/open?id=0BysMfTbvAUUVOVl1ME4za0tHOW8) - Monster Catalog Face Builder \(like [Identi-Kit - Google Image search](https://www.google.ca/search?q=Identi-Kit&rlz=1C1CHBF_enCA700CA700&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjxjczN4vjTAhVH8GMKHbFcBO8Q_AUICigB&biw=1050&bih=1584))
   - [U3 - Graph Paper Programming](https://drive.google.com/open?id=0BysMfTbvAUUVb3dCMEF5Q29xZDQ) - drawing pixel images with \(simple\) instructions.
   - [U4 - Algorithms](https://drive.google.com/open?id=0BysMfTbvAUUVWXVFN1Ffdzhobk0) - Tangrams.
@@ -21,7 +21,7 @@ Concept |	Lesson	| Curriculum Video	| Additional Resources
 Algorithms| Happy Maps <br />Course 1: Stage 1 <br />(age 4+) <br />At the root of all computer science is something called an algorithm. The word “algorithm” may sound like something complicated, but really it’s just a list of instructions that someone can follow to achieve a result. <br />[Lesson Plan](https://code.org/curriculum/course1/1/Teacher) \| [Teacher Video](https://www.youtube.com/watch?v=En6Bshuqljg) | https://youtu.be/hrnhiKAQ1_k	| What is an algorithm? How to explain algorithms to kids
 
 ### Notes / Links 
-- [Code.org Unplugged](code_org-unplugged.md)
+- [code_org-unplugged.md](code_org-unplugged.md)
 - [Video library](https://code.org/educate/resources/videos)
 - [CS Principles Widgets](https://code.org/educate/csp/widgets)
 - [3rd Party Educator Resources](https://code.org/educate/curriculum/3rd-party)
