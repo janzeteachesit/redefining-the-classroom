@@ -15,7 +15,7 @@ Conference Room
    3. What Requirement need to be met for Next Steps to be succcessful
 
 ### Inclusions / Links 
-- #### [Resources Uncovered during the Elementary Inquiry 2016-2017](20162017-elem-resources.md) This is that big list of links and documents!!!
+- __[Resources Uncovered during the Elementary Inquiry 2016-2017](20162017-elem-resources.md) This is that big list of links and documents!!!__
 - [session-three-agenda.md](session-three-agenda.md)
 - [20170518-Session-3 GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVeWZqZm9OUzJBM1E)
 - [Elementary Inquiry Group Session 3 20170518 - GDoc](https://drive.google.com/open?id=1UIVtkgExJP96emjE2XXyIDjbym3njo_BbfxcuDb_cj4)
