@@ -6,7 +6,7 @@
   - [U3 - Graph Paper Programming](https://drive.google.com/open?id=0BysMfTbvAUUVb3dCMEF5Q29xZDQ)  
   - [U4 - Algorithms](https://drive.google.com/open?id=0BysMfTbvAUUVWXVFN1Ffdzhobk0)
   - [U5 - Functions](https://drive.google.com/open?id=0BysMfTbvAUUVYUtSZHdhaFdJSFk)
-  - [U6 - Conditionals\: \(Coding with Cards\)](https://drive.google.com/open?id=0BysMfTbvAUUVOTcxcDVnV0pGeDQ)
+  - [U6 - Conditionals\: \(Coding with Cards\)](https://drive.google.com/open?id=0BysMfTbvAUUVOTcxcDVnV0pGeDQ) - introduction to "choice/choosing/it this ... then that"; iuses playing cards, but any type of game piece oculd be used; highly extensible to "Game Making" in Math / procedures in Science / etc.
   - [U7 - Song Writing](https://drive.google.com/open?id=0BysMfTbvAUUVODNjTVlzUkVNU1k) - Cloze-style/"Mad-lib" lyrics \(could be used for poetry, as well\).
   - [U8 - Abstraction](https://drive.google.com/open?id=0BysMfTbvAUUVQkpzTGdwNU1haUU) - Cloze-style/"Mad-lib" mini-story; paragraph level activity, that can connect to "Choose-Your-Own-Adventure+ story-write.
   - [U9 - Relay Programming](https://drive.google.com/open?id=0BysMfTbvAUUVcTVqTmotSm5waVU) - used with U3 - Graph Paper Programming; but done as a Relay Race.
