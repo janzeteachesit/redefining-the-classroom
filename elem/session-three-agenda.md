@@ -19,7 +19,7 @@ Conference Room
 #### CODE BC
 - joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
    - [Project Mapping to ADST 6-9 Competencies](http://codebc.ca/wp-content/uploads/2017/01/Project-Mapping-to-ADST-6-9-Competencies-v1-75Copies.pdf), [gdoc version](https://drive.google.com/open?id=10RtFbp-nqNn_9ZYQG3NiLfQwUZOpiSpL8UxPiwo_25I)
-   - [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf), [gdoc version](https://drive.google.com/open?id=10qq1roX6hIJy3C7YYV3p7-zJnWgCejIFPSDCOVNkL6Y) - specifically “Choose Your Own Adventure” project (pp 53 – 71) in the Unit-1_Unit-2 pdf; how to implement a Choose Your Own Adventure as a (Non-)Fiction, branching story. 
+   - [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf) - specifically “Choose Your Own Adventure” project (pp 53 – 71) in the Unit-1_Unit-2 pdf \([gdoc version](https://drive.google.com/open?id=10qq1roX6hIJy3C7YYV3p7-zJnWgCejIFPSDCOVNkL6Y)\); how to implement a Choose Your Own Adventure as a (Non-)Fiction, branching story. 
    - [Teacher Training Package](http://codebc.ca/wp-content/uploads/2017/01/TTP_22pages_LighthouseLabs-v3.pdf)
 
 #### Discover Skills BC
@@ -28,7 +28,9 @@ Conference Room
    - [Design and Build a Toothpick House](http://discoverskillsbc.ca/wp-content/uploads/2016/11/Discover_Skills_BC_trades_gr8_9_module.pdf)
 
 #### CS Unplugged
-- 
+- [CSUnplugged_OS_2015_v3.1.pdf](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf), [ELEM INQ GFolder version](https://drive.google.com/open?id=0BysMfTbvAUUVMElfQjJMZHlDcFU)
+- Each [Unplugged activity](http://csunplugged.org/activities/) is available on the CS Unplugged to download in PDF format, with full instructions and worksheets. 
+> [CS Unplugged](http://csunplugged.org/) is a collection of \~23 free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around. We originally developed this so that young students could dive head-first into computer science, experiencing the kinds of questions and challenges that computer scientists experience, but without having to learn programming first.
 
 #### Code.org Unplugged Activities
 
@@ -44,14 +46,24 @@ Conference Room
   - [U9 - Relay Programming](https://drive.google.com/open?id=0BysMfTbvAUUVcTVqTmotSm5waVU) - used with U3 - Graph Paper Programming; but done as a Relay Race.
   - [U10 - The Internet](https://drive.google.com/open?id=0BysMfTbvAUUVbTlKQjVlYWhkVmc)
  - [code_org-unplugged.md](code_org-unplugged.md)
- #### Problem Based Game
-- 
+
+#### Problem Based Game
+   - [Creating a Probability Game (GR4).pdf](https://drive.google.com/open?id=0BysMfTbvAUUVY0otTDFZY2xreU0) - curriculum.gov.bc.ca; a cross-curricular way to address probability content in Grade 4 Mathematics and content from Applied Design, Skills and Technologies 4, which is new to the curriculum. 
+
 #### Antartica
-- 
+- Stanford's _Research in Education & Design_ \(REDlab's\) mission is to conduct research to inform our understanding of design thinking in K-12, undergraduate and graduate educational settings.
+   - [Antarctica Project–Design Thinking version.pdf](https://drive.google.com/open?id=0BysMfTbvAUUVNUY1VXZDTzk4dWs) - The Antarctica Project teaches middle school students to use functions to solve a complex, real-world problem. The unit also includes review of measurement, scale, area, perimeter, and surface area concepts, as well as some computation practice.
+   
 #### Design A Board Game
-- 
+- __Shell Centre for Mathematical Education Publications Ltd.__ In _Design a Board Game_, groups carefully design and produce their own board games. These games are then played and evaluated by other class members. This involves developing ideas from 2-dimensional shape-and-space, together with basic concepts of probability. The materials comprise a teacher’s guide, a student booklet, a set of photocopy masters and a set of game boards and cards for the example games.
+  - [Teacher's Guide (4.6MB)](http://www.mathshell.com/publications/numeracy/boardgame/boardgame_teacher.pdf)
+  - [Student Booklet (1.6MB)](http://www.mathshell.com/publications/numeracy/boardgame/boardgame_student.pdf)
+  - [Masters for Photocopying (1.8MB)](http://www.mathshell.com/publications/numeracy/boardgame/boardgame_masters.pdf)
+  - [Game Boards (1MB)](http://www.mathshell.com/publications/numeracy/boardgame/boardgame_masters.pdf)
+
 #### Programming Cards
-- 
+- [A Different Approach to Teaching Kids and Teens to Code - HackerNoon - Medium.com](https://hackernoon.com/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9) - the “computer” was the entire classroom with the students being my 1s and 0s. My hope was to have them evaluate Conditions (“If this then do that otherwise do something else”) while understanding the Assumptions I had made, and then importantly — predict Exceptions (when an assumption would fail,) and how we could fix them.
+- [10 Ways to teach kids to code - Medium.com](https://medium.com/vehikl-news/10-ways-to-teach-kids-to-code-1c5e4b68a247)
 
 #### Blooms Revised Taxonomy / Domains of Knowledge
 ![http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png](https://image.slidesharecdn.com/revisedbloomshandout-120401103539-phpapp02/95/a-model-of-learning-objectives-3-728.jpg?cb=1333276658) | ![https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg](https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg)
