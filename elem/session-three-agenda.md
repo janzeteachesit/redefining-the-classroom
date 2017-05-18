@@ -18,8 +18,8 @@ Conference Room
 
 #### CODE BC
 - joint initiative between the BC Ministry of Education, the BCTF, and Computer Using Educators of BC (CUEBC). CUEBC consists of BCTF member teachers who volunteer their time to serve the members of the Provincial Specialist Association of the British Columbia Teachers’ Federation.
-   - [Project Mapping to ADST 6-9 Competencies](http://codebc.ca/wp-content/uploads/2017/01/Project-Mapping-to-ADST-6-9-Competencies-v1-75Copies.pdf)
-   - [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf)
+   - [Project Mapping to ADST 6-9 Competencies](http://codebc.ca/wp-content/uploads/2017/01/Project-Mapping-to-ADST-6-9-Competencies-v1-75Copies.pdf), [gdoc version](https://drive.google.com/open?id=10RtFbp-nqNn_9ZYQG3NiLfQwUZOpiSpL8UxPiwo_25I)
+   - [Intro to CT in the Classroom](http://codebc.ca/wp-content/uploads/2017/01/Unit-1__Unit-2_126pages_lighthouselabs-v3-1.pdf), [gdoc version](https://drive.google.com/open?id=10qq1roX6hIJy3C7YYV3p7-zJnWgCejIFPSDCOVNkL6Y) - specifically “Choose Your Own Adventure” project (pp 53 – 71) in the Unit-1_Unit-2 pdf; how to implement a Choose Your Own Adventure as a (Non-)Fiction, branching story. 
    - [Teacher Training Package](http://codebc.ca/wp-content/uploads/2017/01/TTP_22pages_LighthouseLabs-v3.pdf)
 
 #### Discover Skills BC
