@@ -7,9 +7,9 @@
   - [U4 - Algorithms](https://drive.google.com/open?id=0BysMfTbvAUUVWXVFN1Ffdzhobk0)
   - [U5 - Functions](https://drive.google.com/open?id=0BysMfTbvAUUVYUtSZHdhaFdJSFk)
   - [U6 - Conditionals\: \(Coding with Cards\)](https://drive.google.com/open?id=0BysMfTbvAUUVOTcxcDVnV0pGeDQ)
-  - [U7 - Song Writing](https://drive.google.com/open?id=0BysMfTbvAUUVODNjTVlzUkVNU1k)
-  - [U8 - Abstraction](https://drive.google.com/open?id=0BysMfTbvAUUVQkpzTGdwNU1haUU)
-  - [U9 - Relay Programming](https://drive.google.com/open?id=0BysMfTbvAUUVcTVqTmotSm5waVU)
+  - [U7 - Song Writing](https://drive.google.com/open?id=0BysMfTbvAUUVODNjTVlzUkVNU1k) - Cloze-style/"Mad-lib" lyrics \(could be used for poetry, as well\).
+  - [U8 - Abstraction](https://drive.google.com/open?id=0BysMfTbvAUUVQkpzTGdwNU1haUU) - Cloze-style/"Mad-lib" mini-story; paragraph level activity, that can connect to "Choose-Your-Own-Adventure+ story-write.
+  - [U9 - Relay Programming](https://drive.google.com/open?id=0BysMfTbvAUUVcTVqTmotSm5waVU) - used with U3 - Graph Paper Programming; but done as a Relay Race.
   - [U10 - The Internet](https://drive.google.com/open?id=0BysMfTbvAUUVbTlKQjVlYWhkVmc)
 
 [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) - list of unplugged lessons for use in the classroom. The lessons can be used as a stand alone course or as complementary lessons for any computer science course.
