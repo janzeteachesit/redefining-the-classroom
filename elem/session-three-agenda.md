@@ -14,6 +14,7 @@ Conference Room
    3. What Requirement need to be met for Next Steps to be succcessful
 
 ### Inclusions / Links 
+- [session-three-agenda.md](session-three-agenda.md)
 
 #### CS Unplugged
 - 
