@@ -15,9 +15,7 @@ Conference Room
 
 ### Inclusions / Links 
 
-- Blooms Revised Taxonomy / Domains of Knowledge
-
-
+#### Blooms Revised Taxonomy / Domains of Knowledge
 ![http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png](https://image.slidesharecdn.com/revisedbloomshandout-120401103539-phpapp02/95/a-model-of-learning-objectives-3-728.jpg?cb=1333276658) | ![https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg](https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg)
 --- | ---
 src: http://www.teachthought.com/wp-content/uploads/2016/05/3d-blooms-c.png | src: https://i.ytimg.com/vi/X2rZoK1pB_8/maxresdefault.jpg
