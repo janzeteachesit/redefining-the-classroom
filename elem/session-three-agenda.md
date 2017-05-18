@@ -6,11 +6,10 @@ May 17th, 2017
 Conference Room
 
 ### 9:00 - 12:00
-Share What worked, What Would Change, What Would Add
-   1. What did
-      1. Best Part
+   1. How did it go?
+      1. __Best Part__
       2. If did again, what would __DEFINITELY NOT__  repeat
-      3. If did again, what Additions or Changes
+      3. If did again, what __Additions__ or __Changes__
    2. Next Steps
    3. What Requirement need to be met for Next Steps to be succcessful
 
