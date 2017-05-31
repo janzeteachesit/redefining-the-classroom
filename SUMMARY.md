@@ -13,7 +13,7 @@
 * [Medium Articles](medium.md)
   * [Redefining the Classroom](00-9-week00.md)
   * [Ripping the Design Brief](01-5-week01.md)
-* [\(Online\)Tools](tools/tools.md)
+* [\(Online\) Tools](tools/tools.md)
   * [GitHub](github.md)
 * [Elemenatry Inquiry 2016-2017](elem/inq-2016-2017.md)
   * [Elemenatry Inquiry Summary](elem/2016-2017-elementary-inquiry.md)
