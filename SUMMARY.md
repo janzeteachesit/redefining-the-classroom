@@ -7,6 +7,7 @@
   * [Agile and Lean](pm/agile-lean.md)
   * [Blended Classroom](para/blended-classroom.md)
   * [Social Constructivism](para/constructivism.md)
+    * [Vertical Learning - David Ng](para/vertical-learning.md)
   * [Project Based Learning](pbl/pbl.md)
     * [Homo Ludens - Johan Huizinga](pbl/homo-ludens.md)
   * [Going Gradeless](csl/going-gradeless.md)
