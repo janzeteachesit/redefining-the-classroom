@@ -2,6 +2,8 @@
 ## Vertical Learning
 
 ### Links
+- [Vertical Learning - David Ng - GDOC](https://drive.google.com/open?id=1bLrtrAML116AQLa_UxzOPG5LOnsj1KdLvWW3Xuh2iGo)
+- [Vertical Learning - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVME9fRTNyYW1RQlU)
 #### Referenced
 - https://medium.com/vertical-learning/driving-learning-in-the-r%C3%A9sum%C3%A9-project-b38b9005ad56 | Driving Learning in The Résumé Project – Vertical Learning – Medium
 - https://medium.com/vertical-learning/how-might-a-culture-of-powerful-ideas-emerge-aa41507cd1b8 | How Might a Culture of Powerful Ideas Emerge? – Vertical Learning – Medium
