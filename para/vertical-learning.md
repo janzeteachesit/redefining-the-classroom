@@ -13,6 +13,7 @@
 #### On Deck
 - https://medium.com/vertical-learning/triple-loop-learning-c2193dba794f | Triple-Loop Learning – Vertical Learning – Medium
 - https://brightreads.com/why-every-8th-grade-student-should-write-a-r%C3%A9sum%C3%A9-f7ed1e55d9fe | Why Every 8th-Grade Student Should Write a Résumé – Bright
+- [Designing a Functional Professional Learning Community](https://medium.com/vertical-learning/designing-a-functional-professional-learning-community-edc850922bc1)
 - https://medium.com/vertical-learning/igniting-a-culture-of-powerful-ideas-27d9ad552cf0 | Igniting a Culture of Powerful Ideas – Vertical Learning – Medium
 - https://medium.com/vertical-learning/why-we-should-learn-vertically-ae898e1ceb29 | Why We Should Learn Vertically – Vertical Learning – Medium
 - https://medium.com/vertical-learning/seeking-mountains-will-travel-11b1fb13341e | Seeking Mountains; Will Travel – Vertical Learning – Medium
